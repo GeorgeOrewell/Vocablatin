@@ -1,0 +1,25 @@
+{
+  "title": "Lektion 1",
+  "vocab": [
+    {"word": "amicus", "translation": "Freund"},
+    {"word": "femina", "translation": "Frau"},
+    {"word": "puer", "translation": "Junge"},
+    {"word": "domus", "translation": "Haus"},
+    {"word": "canis", "translation": "Hund"},
+    {"word": "equus", "translation": "Pferd"},
+    {"word": "liber", "translation": "Buch"},
+    {"word": "magister", "translation": "Lehrer"},
+    {"word": "schola", "translation": "Schule"},
+    {"word": "familia", "translation": "Familie"},
+    {"word": "terra", "translation": "Erde"},
+    {"word": "via", "translation": "Weg"},
+    {"word": "aqua", "translation": "Wasser"},
+    {"word": "navis", "translation": "Schiff"},
+    {"word": "mensa", "translation": "Tisch"},
+    {"word": "porta", "translation": "Tor"},
+    {"word": "rex", "translation": "König"},
+    {"word": "templum", "translation": "Tempel"},
+    {"word": "vinum", "translation": "Wein"},
+    {"word": "gladius", "translation": "Schwert"}
+  ]
+}
