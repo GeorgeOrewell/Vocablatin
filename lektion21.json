@@ -1,82 +1,17 @@
-[
-    {
-        "word": "veritas",
-        "translation": "Wahrheit"
-    },
-    {
-        "word": "verto",
-        "translation": "wenden"
-    },
-    {
-        "word": "vesper",
-        "translation": "Abend"
-    },
-    {
-        "word": "vestis",
-        "translation": "Kleidung"
-    },
-    {
-        "word": "vetus",
-        "translation": "alt"
-    },
-    {
-        "word": "via",
-        "translation": "Weg"
-    },
-    {
-        "word": "victoria",
-        "translation": "Sieg"
-    },
-    {
-        "word": "videre",
-        "translation": "sehen"
-    },
-    {
-        "word": "vigilia",
-        "translation": "Nachtwache"
-    },
-    {
-        "word": "villa",
-        "translation": "Landhaus"
-    },
-    {
-        "word": "vincere",
-        "translation": "siegen"
-    },
-    {
-        "word": "vir",
-        "translation": "Mann"
-    },
-    {
-        "word": "virtus",
-        "translation": "Tugend"
-    },
-    {
-        "word": "vis",
-        "translation": "Kraft"
-    },
-    {
-        "word": "vita",
-        "translation": "Leben"
-    },
-    {
-        "word": "vitium",
-        "translation": "Laster"
-    },
-    {
-        "word": "vocare",
-        "translation": "rufen"
-    },
-    {
-        "word": "volare",
-        "translation": "fliegen"
-    },
-    {
-        "word": "voluntas",
-        "translation": "Wille"
-    },
-    {
-        "word": "voluptas",
-        "translation": "Lust"
-    }
-]
+{
+    "title": "Lektion 21",
+    "vocab": [
+        {
+            "word": "vox",
+            "translation": "Stimme"
+        },
+        {
+            "word": "vulnus",
+            "translation": "Wunde"
+        },
+        {
+            "word": "vultus",
+            "translation": "Gesicht"
+        }
+    ]
+}

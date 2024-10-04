@@ -1,82 +1,85 @@
-[
-    {
-        "word": "comprehendere",
-        "translation": "ergreifen"
-    },
-    {
-        "word": "condere",
-        "translation": "gründen"
-    },
-    {
-        "word": "conficere",
-        "translation": "vollenden"
-    },
-    {
-        "word": "confidere",
-        "translation": "vertrauen"
-    },
-    {
-        "word": "coniunx",
-        "translation": "Ehefrau"
-    },
-    {
-        "word": "consilium",
-        "translation": "Rat"
-    },
-    {
-        "word": "constituere",
-        "translation": "festsetzen"
-    },
-    {
-        "word": "consul",
-        "translation": "Konsul"
-    },
-    {
-        "word": "contendere",
-        "translation": "eilen"
-    },
-    {
-        "word": "contra",
-        "translation": "gegen"
-    },
-    {
-        "word": "convenire",
-        "translation": "zusammenkommen"
-    },
-    {
-        "word": "copia",
-        "translation": "Menge"
-    },
-    {
-        "word": "corpus",
-        "translation": "Körper"
-    },
-    {
-        "word": "creare",
-        "translation": "erschaffen"
-    },
-    {
-        "word": "credere",
-        "translation": "glauben"
-    },
-    {
-        "word": "crescit",
-        "translation": "wachsen"
-    },
-    {
-        "word": "cuius",
-        "translation": "wessen"
-    },
-    {
-        "word": "cum",
-        "translation": "mit"
-    },
-    {
-        "word": "curare",
-        "translation": "pflegen"
-    },
-    {
-        "word": "currere",
-        "translation": "laufen"
-    }
-]
+{
+    "title": "Lektion 5",
+    "vocab": [
+        {
+            "word": "cursus",
+            "translation": "Lauf"
+        },
+        {
+            "word": "custos",
+            "translation": "Wächter"
+        },
+        {
+            "word": "damnare",
+            "translation": "verurteilen"
+        },
+        {
+            "word": "de",
+            "translation": "von"
+        },
+        {
+            "word": "dea",
+            "translation": "Göttin"
+        },
+        {
+            "word": "debere",
+            "translation": "müssen"
+        },
+        {
+            "word": "decem",
+            "translation": "zehn"
+        },
+        {
+            "word": "decernere",
+            "translation": "entscheiden"
+        },
+        {
+            "word": "decorus",
+            "translation": "anständig"
+        },
+        {
+            "word": "dedere",
+            "translation": "hingeben"
+        },
+        {
+            "word": "defendere",
+            "translation": "verteidigen"
+        },
+        {
+            "word": "deinde",
+            "translation": "dann"
+        },
+        {
+            "word": "delectare",
+            "translation": "erfreuen"
+        },
+        {
+            "word": "delere",
+            "translation": "zerstören"
+        },
+        {
+            "word": "demonstrare",
+            "translation": "zeigen"
+        },
+        {
+            "word": "dens",
+            "translation": "Zahn"
+        },
+        {
+            "word": "densus",
+            "translation": "dicht"
+        },
+        {
+            "word": "deus",
+            "translation": "Gott"
+        },
+        {
+            "word": "dexter",
+            "translation": "rechts"
+        },
+        {
+            "word": "dicere",
+            "translation": "sagen"
+        }
+    ]
+}

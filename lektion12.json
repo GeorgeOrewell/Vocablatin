@@ -1,82 +1,85 @@
-[
-    {
-        "word": "labor",
-        "translation": "Arbeit"
-    },
-    {
-        "word": "lacrima",
-        "translation": "Träne"
-    },
-    {
-        "word": "laetus",
-        "translation": "fröhlich"
-    },
-    {
-        "word": "latus",
-        "translation": "weit"
-    },
-    {
-        "word": "laus",
-        "translation": "Lob"
-    },
-    {
-        "word": "legere",
-        "translation": "lesen"
-    },
-    {
-        "word": "lex",
-        "translation": "Gesetz"
-    },
-    {
-        "word": "liber",
-        "translation": "Buch"
-    },
-    {
-        "word": "libertas",
-        "translation": "Freiheit"
-    },
-    {
-        "word": "licet",
-        "translation": "es ist erlaubt"
-    },
-    {
-        "word": "littera",
-        "translation": "Buchstabe"
-    },
-    {
-        "word": "locus",
-        "translation": "Ort"
-    },
-    {
-        "word": "longus",
-        "translation": "lang"
-    },
-    {
-        "word": "ludere",
-        "translation": "spielen"
-    },
-    {
-        "word": "lumen",
-        "translation": "Licht"
-    },
-    {
-        "word": "lupus",
-        "translation": "Wolf"
-    },
-    {
-        "word": "lux",
-        "translation": "Licht"
-    },
-    {
-        "word": "magister",
-        "translation": "Lehrer"
-    },
-    {
-        "word": "magna",
-        "translation": "groß"
-    },
-    {
-        "word": "malus",
-        "translation": "schlecht"
-    }
-]
+{
+    "title": "Lektion 12",
+    "vocab": [
+        {
+            "word": "manere",
+            "translation": "bleiben"
+        },
+        {
+            "word": "manus",
+            "translation": "Hand"
+        },
+        {
+            "word": "mare",
+            "translation": "Meer"
+        },
+        {
+            "word": "mater",
+            "translation": "Mutter"
+        },
+        {
+            "word": "maximus",
+            "translation": "sehr groß"
+        },
+        {
+            "word": "medicus",
+            "translation": "Arzt"
+        },
+        {
+            "word": "memoria",
+            "translation": "Erinnerung"
+        },
+        {
+            "word": "mens",
+            "translation": "Gedanke"
+        },
+        {
+            "word": "merere",
+            "translation": "verdienen"
+        },
+        {
+            "word": "miles",
+            "translation": "Soldat"
+        },
+        {
+            "word": "miser",
+            "translation": "unglücklich"
+        },
+        {
+            "word": "mittere",
+            "translation": "schicken"
+        },
+        {
+            "word": "moneo",
+            "translation": "ermahnen"
+        },
+        {
+            "word": "mons",
+            "translation": "Berg"
+        },
+        {
+            "word": "mors",
+            "translation": "Tod"
+        },
+        {
+            "word": "mulier",
+            "translation": "Frau"
+        },
+        {
+            "word": "multus",
+            "translation": "viel"
+        },
+        {
+            "word": "murus",
+            "translation": "Mauer"
+        },
+        {
+            "word": "natus",
+            "translation": "geboren"
+        },
+        {
+            "word": "navis",
+            "translation": "Schiff"
+        }
+    ]
+}

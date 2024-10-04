@@ -30,3 +30,13 @@ button:disabled {
 #feedback {
     font-weight: bold;
 }
+#score-container {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#score {
+    color: green;  /* Anfangsfarbe */
+    transition: color 0.5s;  /* Weiche Farbübergänge */
+}

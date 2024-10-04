@@ -1,82 +1,85 @@
-[
-    {
-        "word": "cursus",
-        "translation": "Lauf"
-    },
-    {
-        "word": "custos",
-        "translation": "Wächter"
-    },
-    {
-        "word": "damnare",
-        "translation": "verurteilen"
-    },
-    {
-        "word": "de",
-        "translation": "von"
-    },
-    {
-        "word": "dea",
-        "translation": "Göttin"
-    },
-    {
-        "word": "debere",
-        "translation": "müssen"
-    },
-    {
-        "word": "decem",
-        "translation": "zehn"
-    },
-    {
-        "word": "decernere",
-        "translation": "entscheiden"
-    },
-    {
-        "word": "decorus",
-        "translation": "anständig"
-    },
-    {
-        "word": "dedere",
-        "translation": "hingeben"
-    },
-    {
-        "word": "defendere",
-        "translation": "verteidigen"
-    },
-    {
-        "word": "deinde",
-        "translation": "dann"
-    },
-    {
-        "word": "delectare",
-        "translation": "erfreuen"
-    },
-    {
-        "word": "delere",
-        "translation": "zerstören"
-    },
-    {
-        "word": "demonstrare",
-        "translation": "zeigen"
-    },
-    {
-        "word": "dens",
-        "translation": "Zahn"
-    },
-    {
-        "word": "densus",
-        "translation": "dicht"
-    },
-    {
-        "word": "deus",
-        "translation": "Gott"
-    },
-    {
-        "word": "dexter",
-        "translation": "rechts"
-    },
-    {
-        "word": "dicere",
-        "translation": "sagen"
-    }
-]
+{
+    "title": "Lektion 6",
+    "vocab": [
+        {
+            "word": "dies",
+            "translation": "Tag"
+        },
+        {
+            "word": "difficilis",
+            "translation": "schwierig"
+        },
+        {
+            "word": "dignitas",
+            "translation": "Würde"
+        },
+        {
+            "word": "diligere",
+            "translation": "lieben"
+        },
+        {
+            "word": "discedere",
+            "translation": "weggehen"
+        },
+        {
+            "word": "dives",
+            "translation": "reich"
+        },
+        {
+            "word": "dividere",
+            "translation": "teilen"
+        },
+        {
+            "word": "do",
+            "translation": "dich"
+        },
+        {
+            "word": "docere",
+            "translation": "lehren"
+        },
+        {
+            "word": "dolor",
+            "translation": "Schmerz"
+        },
+        {
+            "word": "domina",
+            "translation": "Herrin"
+        },
+        {
+            "word": "dominus",
+            "translation": "Herr"
+        },
+        {
+            "word": "domus",
+            "translation": "Haus"
+        },
+        {
+            "word": "donare",
+            "translation": "schenken"
+        },
+        {
+            "word": "donum",
+            "translation": "Geschenk"
+        },
+        {
+            "word": "dubitare",
+            "translation": "zögern"
+        },
+        {
+            "word": "dux",
+            "translation": "Anführer"
+        },
+        {
+            "word": "e",
+            "translation": "aus"
+        },
+        {
+            "word": "ea",
+            "translation": "sie"
+        },
+        {
+            "word": "ecce",
+            "translation": "sieh!"
+        }
+    ]
+}

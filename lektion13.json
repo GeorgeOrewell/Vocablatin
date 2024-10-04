@@ -1,82 +1,85 @@
-[
-    {
-        "word": "manere",
-        "translation": "bleiben"
-    },
-    {
-        "word": "manus",
-        "translation": "Hand"
-    },
-    {
-        "word": "mare",
-        "translation": "Meer"
-    },
-    {
-        "word": "mater",
-        "translation": "Mutter"
-    },
-    {
-        "word": "maximus",
-        "translation": "sehr groß"
-    },
-    {
-        "word": "medicus",
-        "translation": "Arzt"
-    },
-    {
-        "word": "memoria",
-        "translation": "Erinnerung"
-    },
-    {
-        "word": "mens",
-        "translation": "Gedanke"
-    },
-    {
-        "word": "merere",
-        "translation": "verdienen"
-    },
-    {
-        "word": "miles",
-        "translation": "Soldat"
-    },
-    {
-        "word": "miser",
-        "translation": "unglücklich"
-    },
-    {
-        "word": "mittere",
-        "translation": "schicken"
-    },
-    {
-        "word": "moneo",
-        "translation": "ermahnen"
-    },
-    {
-        "word": "mons",
-        "translation": "Berg"
-    },
-    {
-        "word": "mors",
-        "translation": "Tod"
-    },
-    {
-        "word": "mulier",
-        "translation": "Frau"
-    },
-    {
-        "word": "multus",
-        "translation": "viel"
-    },
-    {
-        "word": "murus",
-        "translation": "Mauer"
-    },
-    {
-        "word": "natus",
-        "translation": "geboren"
-    },
-    {
-        "word": "navis",
-        "translation": "Schiff"
-    }
-]
+{
+    "title": "Lektion 13",
+    "vocab": [
+        {
+            "word": "necare",
+            "translation": "töten"
+        },
+        {
+            "word": "negare",
+            "translation": "leugnen"
+        },
+        {
+            "word": "nihil",
+            "translation": "nichts"
+        },
+        {
+            "word": "nobilis",
+            "translation": "edel"
+        },
+        {
+            "word": "nocere",
+            "translation": "schaden"
+        },
+        {
+            "word": "nomen",
+            "translation": "Name"
+        },
+        {
+            "word": "nox",
+            "translation": "Nacht"
+        },
+        {
+            "word": "numerus",
+            "translation": "Zahl"
+        },
+        {
+            "word": "nunc",
+            "translation": "jetzt"
+        },
+        {
+            "word": "nuntius",
+            "translation": "Bote"
+        },
+        {
+            "word": "ob",
+            "translation": "wegen"
+        },
+        {
+            "word": "occidere",
+            "translation": "töten"
+        },
+        {
+            "word": "officium",
+            "translation": "Dienst"
+        },
+        {
+            "word": "omnia",
+            "translation": "alle"
+        },
+        {
+            "word": "onus",
+            "translation": "Last"
+        },
+        {
+            "word": "opprimere",
+            "translation": "unterdrücken"
+        },
+        {
+            "word": "opus",
+            "translation": "Werk"
+        },
+        {
+            "word": "orare",
+            "translation": "beten"
+        },
+        {
+            "word": "oratio",
+            "translation": "Rede"
+        },
+        {
+            "word": "os",
+            "translation": "Mund"
+        }
+    ]
+}

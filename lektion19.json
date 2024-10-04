@@ -1,82 +1,85 @@
-[
-    {
-        "word": "stare",
-        "translation": "stehen"
-    },
-    {
-        "word": "studium",
-        "translation": "Bemühen"
-    },
-    {
-        "word": "sub",
-        "translation": "unter"
-    },
-    {
-        "word": "sui",
-        "translation": "sich"
-    },
-    {
-        "word": "sum",
-        "translation": "sein"
-    },
-    {
-        "word": "summus",
-        "translation": "höchster"
-    },
-    {
-        "word": "super",
-        "translation": "über"
-    },
-    {
-        "word": "superare",
-        "translation": "übertreffen"
-    },
-    {
-        "word": "suus",
-        "translation": "sein"
-    },
-    {
-        "word": "tacere",
-        "translation": "schweigen"
-    },
-    {
-        "word": "tangere",
-        "translation": "berühren"
-    },
-    {
-        "word": "tantus",
-        "translation": "so groß"
-    },
-    {
-        "word": "tempus",
-        "translation": "Zeit"
-    },
-    {
-        "word": "tenere",
-        "translation": "halten"
-    },
-    {
-        "word": "terra",
-        "translation": "Erde"
-    },
-    {
-        "word": "timere",
-        "translation": "fürchten"
-    },
-    {
-        "word": "totus",
-        "translation": "gesamt"
-    },
-    {
-        "word": "trahere",
-        "translation": "ziehen"
-    },
-    {
-        "word": "tres",
-        "translation": "drei"
-    },
-    {
-        "word": "tribuere",
-        "translation": "zuteilen"
-    }
-]
+{
+    "title": "Lektion 19",
+    "vocab": [
+        {
+            "word": "tristis",
+            "translation": "traurig"
+        },
+        {
+            "word": "tu",
+            "translation": "du"
+        },
+        {
+            "word": "tum",
+            "translation": "dann"
+        },
+        {
+            "word": "turba",
+            "translation": "Menge"
+        },
+        {
+            "word": "ubi",
+            "translation": "wo"
+        },
+        {
+            "word": "ullus",
+            "translation": "irgendein"
+        },
+        {
+            "word": "ultimus",
+            "translation": "letzter"
+        },
+        {
+            "word": "umquam",
+            "translation": "jemals"
+        },
+        {
+            "word": "unde",
+            "translation": "woher"
+        },
+        {
+            "word": "unus",
+            "translation": "einer"
+        },
+        {
+            "word": "urbs",
+            "translation": "Stadt"
+        },
+        {
+            "word": "usque",
+            "translation": "bis"
+        },
+        {
+            "word": "ut",
+            "translation": "wenn"
+        },
+        {
+            "word": "uter",
+            "translation": "welcher von beiden"
+        },
+        {
+            "word": "utrum",
+            "translation": "ob"
+        },
+        {
+            "word": "uxor",
+            "translation": "Ehefrau"
+        },
+        {
+            "word": "valere",
+            "translation": "gesund sein"
+        },
+        {
+            "word": "varius",
+            "translation": "verschieden"
+        },
+        {
+            "word": "velle",
+            "translation": "wollen"
+        },
+        {
+            "word": "verbum",
+            "translation": "Wort"
+        }
+    ]
+}

@@ -1,82 +1,85 @@
-[
-    {
-        "word": "familia",
-        "translation": "Familie"
-    },
-    {
-        "word": "fateor",
-        "translation": "bekennen"
-    },
-    {
-        "word": "felix",
-        "translation": "glücklich"
-    },
-    {
-        "word": "femina",
-        "translation": "Frau"
-    },
-    {
-        "word": "ferox",
-        "translation": "wild"
-    },
-    {
-        "word": "ferre",
-        "translation": "tragen"
-    },
-    {
-        "word": "ferrum",
-        "translation": "Eisen"
-    },
-    {
-        "word": "fessus",
-        "translation": "müde"
-    },
-    {
-        "word": "fides",
-        "translation": "Glaube"
-    },
-    {
-        "word": "fieri",
-        "translation": "geschehen"
-    },
-    {
-        "word": "filia",
-        "translation": "Tochter"
-    },
-    {
-        "word": "filius",
-        "translation": "Sohn"
-    },
-    {
-        "word": "finis",
-        "translation": "Ende"
-    },
-    {
-        "word": "flamma",
-        "translation": "Flamme"
-    },
-    {
-        "word": "flumen",
-        "translation": "Fluss"
-    },
-    {
-        "word": "fodere",
-        "translation": "graben"
-    },
-    {
-        "word": "forma",
-        "translation": "Gestalt"
-    },
-    {
-        "word": "fortis",
-        "translation": "tapfer"
-    },
-    {
-        "word": "frangere",
-        "translation": "zerbrechen"
-    },
-    {
-        "word": "frater",
-        "translation": "Bruder"
-    }
-]
+{
+    "title": "Lektion 9",
+    "vocab": [
+        {
+            "word": "fugere",
+            "translation": "fliehen"
+        },
+        {
+            "word": "fundere",
+            "translation": "gießen"
+        },
+        {
+            "word": "furor",
+            "translation": "Wut"
+        },
+        {
+            "word": "gaudium",
+            "translation": "Freude"
+        },
+        {
+            "word": "gens",
+            "translation": "Volk"
+        },
+        {
+            "word": "gerere",
+            "translation": "tragen"
+        },
+        {
+            "word": "gladius",
+            "translation": "Schwert"
+        },
+        {
+            "word": "gratia",
+            "translation": "Dank"
+        },
+        {
+            "word": "gravis",
+            "translation": "schwer"
+        },
+        {
+            "word": "habere",
+            "translation": "haben"
+        },
+        {
+            "word": "habito",
+            "translation": "wohnen"
+        },
+        {
+            "word": "haerere",
+            "translation": "hängen"
+        },
+        {
+            "word": "homo",
+            "translation": "Mensch"
+        },
+        {
+            "word": "honor",
+            "translation": "Ehre"
+        },
+        {
+            "word": "hortus",
+            "translation": "Garten"
+        },
+        {
+            "word": "hostis",
+            "translation": "Feind"
+        },
+        {
+            "word": "humus",
+            "translation": "Boden"
+        },
+        {
+            "word": "iam",
+            "translation": "schon"
+        },
+        {
+            "word": "ibi",
+            "translation": "dort"
+        },
+        {
+            "word": "idem",
+            "translation": "derselbe"
+        }
+    ]
+}

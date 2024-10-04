@@ -1,82 +1,85 @@
-[
-    {
-        "word": "efficere",
-        "translation": "bewirken"
-    },
-    {
-        "word": "efferre",
-        "translation": "heraustragen"
-    },
-    {
-        "word": "ego",
-        "translation": "ich"
-    },
-    {
-        "word": "egredi",
-        "translation": "hinausgehen"
-    },
-    {
-        "word": "emere",
-        "translation": "kaufen"
-    },
-    {
-        "word": "enim",
-        "translation": "denn"
-    },
-    {
-        "word": "eo",
-        "translation": "dorthin"
-    },
-    {
-        "word": "eques",
-        "translation": "Reiter"
-    },
-    {
-        "word": "errare",
-        "translation": "irren"
-    },
-    {
-        "word": "et",
-        "translation": "und"
-    },
-    {
-        "word": "etiam",
-        "translation": "auch"
-    },
-    {
-        "word": "ex",
-        "translation": "aus"
-    },
-    {
-        "word": "exercere",
-        "translation": "üben"
-    },
-    {
-        "word": "exercitus",
-        "translation": "Heer"
-    },
-    {
-        "word": "exire",
-        "translation": "herausgehen"
-    },
-    {
-        "word": "expellere",
-        "translation": "vertreiben"
-    },
-    {
-        "word": "facere",
-        "translation": "machen"
-    },
-    {
-        "word": "facilis",
-        "translation": "leicht"
-    },
-    {
-        "word": "factum",
-        "translation": "Tat"
-    },
-    {
-        "word": "fallere",
-        "translation": "täuschen"
-    }
-]
+{
+    "title": "Lektion 8",
+    "vocab": [
+        {
+            "word": "familia",
+            "translation": "Familie"
+        },
+        {
+            "word": "fateor",
+            "translation": "bekennen"
+        },
+        {
+            "word": "felix",
+            "translation": "glücklich"
+        },
+        {
+            "word": "femina",
+            "translation": "Frau"
+        },
+        {
+            "word": "ferox",
+            "translation": "wild"
+        },
+        {
+            "word": "ferre",
+            "translation": "tragen"
+        },
+        {
+            "word": "ferrum",
+            "translation": "Eisen"
+        },
+        {
+            "word": "fessus",
+            "translation": "müde"
+        },
+        {
+            "word": "fides",
+            "translation": "Glaube"
+        },
+        {
+            "word": "fieri",
+            "translation": "geschehen"
+        },
+        {
+            "word": "filia",
+            "translation": "Tochter"
+        },
+        {
+            "word": "filius",
+            "translation": "Sohn"
+        },
+        {
+            "word": "finis",
+            "translation": "Ende"
+        },
+        {
+            "word": "flamma",
+            "translation": "Flamme"
+        },
+        {
+            "word": "flumen",
+            "translation": "Fluss"
+        },
+        {
+            "word": "fodere",
+            "translation": "graben"
+        },
+        {
+            "word": "forma",
+            "translation": "Gestalt"
+        },
+        {
+            "word": "fortis",
+            "translation": "tapfer"
+        },
+        {
+            "word": "frangere",
+            "translation": "zerbrechen"
+        },
+        {
+            "word": "frater",
+            "translation": "Bruder"
+        }
+    ]
+}

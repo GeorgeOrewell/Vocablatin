@@ -1,82 +1,85 @@
-[
-    {
-        "word": "tristis",
-        "translation": "traurig"
-    },
-    {
-        "word": "tu",
-        "translation": "du"
-    },
-    {
-        "word": "tum",
-        "translation": "dann"
-    },
-    {
-        "word": "turba",
-        "translation": "Menge"
-    },
-    {
-        "word": "ubi",
-        "translation": "wo"
-    },
-    {
-        "word": "ullus",
-        "translation": "irgendein"
-    },
-    {
-        "word": "ultimus",
-        "translation": "letzter"
-    },
-    {
-        "word": "umquam",
-        "translation": "jemals"
-    },
-    {
-        "word": "unde",
-        "translation": "woher"
-    },
-    {
-        "word": "unus",
-        "translation": "einer"
-    },
-    {
-        "word": "urbs",
-        "translation": "Stadt"
-    },
-    {
-        "word": "usque",
-        "translation": "bis"
-    },
-    {
-        "word": "ut",
-        "translation": "wenn"
-    },
-    {
-        "word": "uter",
-        "translation": "welcher von beiden"
-    },
-    {
-        "word": "utrum",
-        "translation": "ob"
-    },
-    {
-        "word": "uxor",
-        "translation": "Ehefrau"
-    },
-    {
-        "word": "valere",
-        "translation": "gesund sein"
-    },
-    {
-        "word": "varius",
-        "translation": "verschieden"
-    },
-    {
-        "word": "velle",
-        "translation": "wollen"
-    },
-    {
-        "word": "verbum",
-        "translation": "Wort"
-    }
-]
+{
+    "title": "Lektion 20",
+    "vocab": [
+        {
+            "word": "veritas",
+            "translation": "Wahrheit"
+        },
+        {
+            "word": "verto",
+            "translation": "wenden"
+        },
+        {
+            "word": "vesper",
+            "translation": "Abend"
+        },
+        {
+            "word": "vestis",
+            "translation": "Kleidung"
+        },
+        {
+            "word": "vetus",
+            "translation": "alt"
+        },
+        {
+            "word": "via",
+            "translation": "Weg"
+        },
+        {
+            "word": "victoria",
+            "translation": "Sieg"
+        },
+        {
+            "word": "videre",
+            "translation": "sehen"
+        },
+        {
+            "word": "vigilia",
+            "translation": "Nachtwache"
+        },
+        {
+            "word": "villa",
+            "translation": "Landhaus"
+        },
+        {
+            "word": "vincere",
+            "translation": "siegen"
+        },
+        {
+            "word": "vir",
+            "translation": "Mann"
+        },
+        {
+            "word": "virtus",
+            "translation": "Tugend"
+        },
+        {
+            "word": "vis",
+            "translation": "Kraft"
+        },
+        {
+            "word": "vita",
+            "translation": "Leben"
+        },
+        {
+            "word": "vitium",
+            "translation": "Laster"
+        },
+        {
+            "word": "vocare",
+            "translation": "rufen"
+        },
+        {
+            "word": "volare",
+            "translation": "fliegen"
+        },
+        {
+            "word": "voluntas",
+            "translation": "Wille"
+        },
+        {
+            "word": "voluptas",
+            "translation": "Lust"
+        }
+    ]
+}

@@ -1,82 +1,85 @@
-[
-    {
-        "word": "caput",
-        "translation": "Kopf"
-    },
-    {
-        "word": "carcer",
-        "translation": "Gefängnis"
-    },
-    {
-        "word": "carmen",
-        "translation": "Lied"
-    },
-    {
-        "word": "castra",
-        "translation": "Lager"
-    },
-    {
-        "word": "causa",
-        "translation": "Grund"
-    },
-    {
-        "word": "cedere",
-        "translation": "gehen"
-    },
-    {
-        "word": "celer",
-        "translation": "schnell"
-    },
-    {
-        "word": "cena",
-        "translation": "Mahlzeit"
-    },
-    {
-        "word": "ceteri",
-        "translation": "die übrigen"
-    },
-    {
-        "word": "cibus",
-        "translation": "Nahrung"
-    },
-    {
-        "word": "civis",
-        "translation": "Bürger"
-    },
-    {
-        "word": "civitas",
-        "translation": "Staat"
-    },
-    {
-        "word": "clamare",
-        "translation": "rufen"
-    },
-    {
-        "word": "clarus",
-        "translation": "berühmt"
-    },
-    {
-        "word": "classis",
-        "translation": "Flotte"
-    },
-    {
-        "word": "coepit",
-        "translation": "er hat begonnen"
-    },
-    {
-        "word": "cogitare",
-        "translation": "denken"
-    },
-    {
-        "word": "cognoscere",
-        "translation": "erkennen"
-    },
-    {
-        "word": "comes",
-        "translation": "Begleiter"
-    },
-    {
-        "word": "committere",
-        "translation": "begehen"
-    }
-]
+{
+    "title": "Lektion 4",
+    "vocab": [
+        {
+            "word": "comprehendere",
+            "translation": "ergreifen"
+        },
+        {
+            "word": "condere",
+            "translation": "gründen"
+        },
+        {
+            "word": "conficere",
+            "translation": "vollenden"
+        },
+        {
+            "word": "confidere",
+            "translation": "vertrauen"
+        },
+        {
+            "word": "coniunx",
+            "translation": "Ehefrau"
+        },
+        {
+            "word": "consilium",
+            "translation": "Rat"
+        },
+        {
+            "word": "constituere",
+            "translation": "festsetzen"
+        },
+        {
+            "word": "consul",
+            "translation": "Konsul"
+        },
+        {
+            "word": "contendere",
+            "translation": "eilen"
+        },
+        {
+            "word": "contra",
+            "translation": "gegen"
+        },
+        {
+            "word": "convenire",
+            "translation": "zusammenkommen"
+        },
+        {
+            "word": "copia",
+            "translation": "Menge"
+        },
+        {
+            "word": "corpus",
+            "translation": "Körper"
+        },
+        {
+            "word": "creare",
+            "translation": "erschaffen"
+        },
+        {
+            "word": "credere",
+            "translation": "glauben"
+        },
+        {
+            "word": "crescit",
+            "translation": "wachsen"
+        },
+        {
+            "word": "cuius",
+            "translation": "wessen"
+        },
+        {
+            "word": "cum",
+            "translation": "mit"
+        },
+        {
+            "word": "curare",
+            "translation": "pflegen"
+        },
+        {
+            "word": "currere",
+            "translation": "laufen"
+        }
+    ]
+}

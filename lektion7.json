@@ -1,82 +1,85 @@
-[
-    {
-        "word": "dies",
-        "translation": "Tag"
-    },
-    {
-        "word": "difficilis",
-        "translation": "schwierig"
-    },
-    {
-        "word": "dignitas",
-        "translation": "Würde"
-    },
-    {
-        "word": "diligere",
-        "translation": "lieben"
-    },
-    {
-        "word": "discedere",
-        "translation": "weggehen"
-    },
-    {
-        "word": "dives",
-        "translation": "reich"
-    },
-    {
-        "word": "dividere",
-        "translation": "teilen"
-    },
-    {
-        "word": "do",
-        "translation": "dich"
-    },
-    {
-        "word": "docere",
-        "translation": "lehren"
-    },
-    {
-        "word": "dolor",
-        "translation": "Schmerz"
-    },
-    {
-        "word": "domina",
-        "translation": "Herrin"
-    },
-    {
-        "word": "dominus",
-        "translation": "Herr"
-    },
-    {
-        "word": "domus",
-        "translation": "Haus"
-    },
-    {
-        "word": "donare",
-        "translation": "schenken"
-    },
-    {
-        "word": "donum",
-        "translation": "Geschenk"
-    },
-    {
-        "word": "dubitare",
-        "translation": "zögern"
-    },
-    {
-        "word": "dux",
-        "translation": "Anführer"
-    },
-    {
-        "word": "e",
-        "translation": "aus"
-    },
-    {
-        "word": "ea",
-        "translation": "sie"
-    },
-    {
-        "word": "ecce",
-        "translation": "sieh!"
-    }
-]
+{
+    "title": "Lektion 7",
+    "vocab": [
+        {
+            "word": "efficere",
+            "translation": "bewirken"
+        },
+        {
+            "word": "efferre",
+            "translation": "heraustragen"
+        },
+        {
+            "word": "ego",
+            "translation": "ich"
+        },
+        {
+            "word": "egredi",
+            "translation": "hinausgehen"
+        },
+        {
+            "word": "emere",
+            "translation": "kaufen"
+        },
+        {
+            "word": "enim",
+            "translation": "denn"
+        },
+        {
+            "word": "eo",
+            "translation": "dorthin"
+        },
+        {
+            "word": "eques",
+            "translation": "Reiter"
+        },
+        {
+            "word": "errare",
+            "translation": "irren"
+        },
+        {
+            "word": "et",
+            "translation": "und"
+        },
+        {
+            "word": "etiam",
+            "translation": "auch"
+        },
+        {
+            "word": "ex",
+            "translation": "aus"
+        },
+        {
+            "word": "exercere",
+            "translation": "üben"
+        },
+        {
+            "word": "exercitus",
+            "translation": "Heer"
+        },
+        {
+            "word": "exire",
+            "translation": "herausgehen"
+        },
+        {
+            "word": "expellere",
+            "translation": "vertreiben"
+        },
+        {
+            "word": "facere",
+            "translation": "machen"
+        },
+        {
+            "word": "facilis",
+            "translation": "leicht"
+        },
+        {
+            "word": "factum",
+            "translation": "Tat"
+        },
+        {
+            "word": "fallere",
+            "translation": "täuschen"
+        }
+    ]
+}

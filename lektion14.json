@@ -1,82 +1,85 @@
-[
-    {
-        "word": "necare",
-        "translation": "töten"
-    },
-    {
-        "word": "negare",
-        "translation": "leugnen"
-    },
-    {
-        "word": "nihil",
-        "translation": "nichts"
-    },
-    {
-        "word": "nobilis",
-        "translation": "edel"
-    },
-    {
-        "word": "nocere",
-        "translation": "schaden"
-    },
-    {
-        "word": "nomen",
-        "translation": "Name"
-    },
-    {
-        "word": "nox",
-        "translation": "Nacht"
-    },
-    {
-        "word": "numerus",
-        "translation": "Zahl"
-    },
-    {
-        "word": "nunc",
-        "translation": "jetzt"
-    },
-    {
-        "word": "nuntius",
-        "translation": "Bote"
-    },
-    {
-        "word": "ob",
-        "translation": "wegen"
-    },
-    {
-        "word": "occidere",
-        "translation": "töten"
-    },
-    {
-        "word": "officium",
-        "translation": "Dienst"
-    },
-    {
-        "word": "omnia",
-        "translation": "alle"
-    },
-    {
-        "word": "onus",
-        "translation": "Last"
-    },
-    {
-        "word": "opprimere",
-        "translation": "unterdrücken"
-    },
-    {
-        "word": "opus",
-        "translation": "Werk"
-    },
-    {
-        "word": "orare",
-        "translation": "beten"
-    },
-    {
-        "word": "oratio",
-        "translation": "Rede"
-    },
-    {
-        "word": "os",
-        "translation": "Mund"
-    }
-]
+{
+    "title": "Lektion 14",
+    "vocab": [
+        {
+            "word": "parare",
+            "translation": "vorbereiten"
+        },
+        {
+            "word": "pater",
+            "translation": "Vater"
+        },
+        {
+            "word": "patria",
+            "translation": "Heimat"
+        },
+        {
+            "word": "pauci",
+            "translation": "wenige"
+        },
+        {
+            "word": "pax",
+            "translation": "Frieden"
+        },
+        {
+            "word": "pecunia",
+            "translation": "Geld"
+        },
+        {
+            "word": "pellere",
+            "translation": "stoßen"
+        },
+        {
+            "word": "per",
+            "translation": "durch"
+        },
+        {
+            "word": "periculum",
+            "translation": "Gefahr"
+        },
+        {
+            "word": "pes",
+            "translation": "Fuß"
+        },
+        {
+            "word": "pestis",
+            "translation": "Seuche"
+        },
+        {
+            "word": "petere",
+            "translation": "bitten"
+        },
+        {
+            "word": "plebs",
+            "translation": "Volk"
+        },
+        {
+            "word": "plenus",
+            "translation": "voll"
+        },
+        {
+            "word": "poco",
+            "translation": "pauper"
+        },
+        {
+            "word": "ponere",
+            "translation": "setzen"
+        },
+        {
+            "word": "populus",
+            "translation": "Volk"
+        },
+        {
+            "word": "portare",
+            "translation": "tragen"
+        },
+        {
+            "word": "posse",
+            "translation": "können"
+        },
+        {
+            "word": "post",
+            "translation": "hinter"
+        }
+    ]
+}

@@ -1,82 +1,85 @@
-[
-    {
-        "word": "ignis",
-        "translation": "Feuer"
-    },
-    {
-        "word": "ille",
-        "translation": "jener"
-    },
-    {
-        "word": "imperare",
-        "translation": "befehlen"
-    },
-    {
-        "word": "imperium",
-        "translation": "Befehl"
-    },
-    {
-        "word": "in",
-        "translation": "in"
-    },
-    {
-        "word": "inimicus",
-        "translation": "Feind"
-    },
-    {
-        "word": "intellegere",
-        "translation": "verstehen"
-    },
-    {
-        "word": "inter",
-        "translation": "zwischen"
-    },
-    {
-        "word": "interficere",
-        "translation": "töten"
-    },
-    {
-        "word": "invenire",
-        "translation": "finden"
-    },
-    {
-        "word": "ira",
-        "translation": "Zorn"
-    },
-    {
-        "word": "iratus",
-        "translation": "zornig"
-    },
-    {
-        "word": "is",
-        "translation": "er"
-    },
-    {
-        "word": "ita",
-        "translation": "so"
-    },
-    {
-        "word": "iter",
-        "translation": "Weg"
-    },
-    {
-        "word": "iubere",
-        "translation": "befehlen"
-    },
-    {
-        "word": "iudex",
-        "translation": "Richter"
-    },
-    {
-        "word": "iungere",
-        "translation": "verbinden"
-    },
-    {
-        "word": "iuppiter",
-        "translation": "Jupiter"
-    },
-    {
-        "word": "iuvenis",
-        "translation": "junger Mann"
-    }
-]
+{
+    "title": "Lektion 11",
+    "vocab": [
+        {
+            "word": "labor",
+            "translation": "Arbeit"
+        },
+        {
+            "word": "lacrima",
+            "translation": "Träne"
+        },
+        {
+            "word": "laetus",
+            "translation": "fröhlich"
+        },
+        {
+            "word": "latus",
+            "translation": "weit"
+        },
+        {
+            "word": "laus",
+            "translation": "Lob"
+        },
+        {
+            "word": "legere",
+            "translation": "lesen"
+        },
+        {
+            "word": "lex",
+            "translation": "Gesetz"
+        },
+        {
+            "word": "liber",
+            "translation": "Buch"
+        },
+        {
+            "word": "libertas",
+            "translation": "Freiheit"
+        },
+        {
+            "word": "licet",
+            "translation": "es ist erlaubt"
+        },
+        {
+            "word": "littera",
+            "translation": "Buchstabe"
+        },
+        {
+            "word": "locus",
+            "translation": "Ort"
+        },
+        {
+            "word": "longus",
+            "translation": "lang"
+        },
+        {
+            "word": "ludere",
+            "translation": "spielen"
+        },
+        {
+            "word": "lumen",
+            "translation": "Licht"
+        },
+        {
+            "word": "lupus",
+            "translation": "Wolf"
+        },
+        {
+            "word": "lux",
+            "translation": "Licht"
+        },
+        {
+            "word": "magister",
+            "translation": "Lehrer"
+        },
+        {
+            "word": "magna",
+            "translation": "groß"
+        },
+        {
+            "word": "malus",
+            "translation": "schlecht"
+        }
+    ]
+}

@@ -1,82 +1,85 @@
-[
-    {
-        "word": "parare",
-        "translation": "vorbereiten"
-    },
-    {
-        "word": "pater",
-        "translation": "Vater"
-    },
-    {
-        "word": "patria",
-        "translation": "Heimat"
-    },
-    {
-        "word": "pauci",
-        "translation": "wenige"
-    },
-    {
-        "word": "pax",
-        "translation": "Frieden"
-    },
-    {
-        "word": "pecunia",
-        "translation": "Geld"
-    },
-    {
-        "word": "pellere",
-        "translation": "stoßen"
-    },
-    {
-        "word": "per",
-        "translation": "durch"
-    },
-    {
-        "word": "periculum",
-        "translation": "Gefahr"
-    },
-    {
-        "word": "pes",
-        "translation": "Fuß"
-    },
-    {
-        "word": "pestis",
-        "translation": "Seuche"
-    },
-    {
-        "word": "petere",
-        "translation": "bitten"
-    },
-    {
-        "word": "plebs",
-        "translation": "Volk"
-    },
-    {
-        "word": "plenus",
-        "translation": "voll"
-    },
-    {
-        "word": "poco",
-        "translation": "pauper"
-    },
-    {
-        "word": "ponere",
-        "translation": "setzen"
-    },
-    {
-        "word": "populus",
-        "translation": "Volk"
-    },
-    {
-        "word": "portare",
-        "translation": "tragen"
-    },
-    {
-        "word": "posse",
-        "translation": "können"
-    },
-    {
-        "word": "post",
-        "translation": "hinter"
-    }
-]
+{
+    "title": "Lektion 15",
+    "vocab": [
+        {
+            "word": "potens",
+            "translation": "mächtig"
+        },
+        {
+            "word": "prae",
+            "translation": "vor"
+        },
+        {
+            "word": "praemium",
+            "translation": "Belohnung"
+        },
+        {
+            "word": "primus",
+            "translation": "erster"
+        },
+        {
+            "word": "princeps",
+            "translation": "Anführer"
+        },
+        {
+            "word": "pro",
+            "translation": "für"
+        },
+        {
+            "word": "proelium",
+            "translation": "Schlacht"
+        },
+        {
+            "word": "proficisci",
+            "translation": "aufbrechen"
+        },
+        {
+            "word": "prohibere",
+            "translation": "hindern"
+        },
+        {
+            "word": "propter",
+            "translation": "wegen"
+        },
+        {
+            "word": "providere",
+            "translation": "vorhersehen"
+        },
+        {
+            "word": "publicus",
+            "translation": "öffentlich"
+        },
+        {
+            "word": "puer",
+            "translation": "Junge"
+        },
+        {
+            "word": "pulcher",
+            "translation": "schön"
+        },
+        {
+            "word": "pulsare",
+            "translation": "schlagen"
+        },
+        {
+            "word": "quaerere",
+            "translation": "suchen"
+        },
+        {
+            "word": "quam",
+            "translation": "wie"
+        },
+        {
+            "word": "quattuor",
+            "translation": "vier"
+        },
+        {
+            "word": "qui",
+            "translation": "der"
+        },
+        {
+            "word": "quid",
+            "translation": "was"
+        }
+    ]
+}

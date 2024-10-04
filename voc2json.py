@@ -1,46 +1,35 @@
-import json
 import os
+import json
 
-def get_next_filename(base_output_file):
-    lesson_num = 1
-    while True:
-        output_file = f"{base_output_file}{lesson_num}.json"
-        if not os.path.exists(output_file):
-            return output_file
-        lesson_num += 1
-
-def convert_to_json(input_file, base_output_file, words_per_lesson=20):
-    with open(input_file, 'r', encoding='utf-8') as file:
+def convert_to_json(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
-    
-    vocab = []
-    word_count = 0
-    
+
+    vocab_list = []
     for line in lines:
-        if ":" in line:
-            latin_word, german_translation = line.strip().split(":")
-            vocab.append({"word": latin_word, "translation": german_translation})
-            word_count += 1
-        
-        # Sobald wir die Anzahl der Wörter pro Lektion erreichen
-        if word_count == words_per_lesson:
-            output_file = get_next_filename(base_output_file)
-            with open(output_file, 'w', encoding='utf-8') as json_file:
-                json.dump(vocab, json_file, ensure_ascii=False, indent=4)
-            print(f"Lektion gespeichert: {output_file}")
-            
-            # Zurücksetzen für die nächste Lektion
-            vocab = []
-            word_count = 0
-    
-    # Speichert die letzte Lektion, wenn noch Wörter übrig sind
-    if vocab:
-        output_file = get_next_filename(base_output_file)
-        with open(output_file, 'w', encoding='utf-8') as json_file:
-            json.dump(vocab, json_file, ensure_ascii=False, indent=4)
-        print(f"Lektion gespeichert: {output_file}")
+        word, translation = line.strip().split(':')
+        vocab_list.append({"word": word, "translation": translation})
+
+    # Teile die Vokabeln in Lektionen zu je 20 Vokabeln auf
+    lesson_size = 20
+    lessons = [vocab_list[i:i + lesson_size] for i in range(0, len(vocab_list), lesson_size)]
+
+    # Speichere jede Lektion in einer separaten JSON-Datei
+    lesson_num = 1
+    for lesson in lessons:
+        while os.path.exists(f'lektion{lesson_num}.json'):
+            lesson_num += 1
+
+        lesson_data = {
+            "title": f"Lektion {lesson_num}",
+            "vocab": lesson
+        }
+
+        with open(f'lektion{lesson_num}.json', 'w', encoding='utf-8') as json_file:
+            json.dump(lesson_data, json_file, ensure_ascii=False, indent=4)
+
+        print(f"Lektion {lesson_num} gespeichert.")
 
 if __name__ == "__main__":
-    input_file = "vokabeln.txt"  # Eingabedatei mit Vokabeln im gewünschten Format
-    base_output_file = "lektion"  # Basisname für Ausgabedateien
-    convert_to_json(input_file, base_output_file)
+    file_path = input("Pfad zur Vokabel-Datei eingeben: ")
+    convert_to_json(file_path)

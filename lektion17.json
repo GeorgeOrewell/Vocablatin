@@ -1,82 +1,85 @@
-[
-    {
-        "word": "quietus",
-        "translation": "ruhig"
-    },
-    {
-        "word": "quinque",
-        "translation": "fünf"
-    },
-    {
-        "word": "quis",
-        "translation": "wer"
-    },
-    {
-        "word": "quo",
-        "translation": "wodurch"
-    },
-    {
-        "word": "quod",
-        "translation": "dass"
-    },
-    {
-        "word": "quot",
-        "translation": "wieviele"
-    },
-    {
-        "word": "rapere",
-        "translation": "rauben"
-    },
-    {
-        "word": "regere",
-        "translation": "leiten"
-    },
-    {
-        "word": "relinquere",
-        "translation": "zurücklassen"
-    },
-    {
-        "word": "remedium",
-        "translation": "Mittel"
-    },
-    {
-        "word": "rex",
-        "translation": "König"
-    },
-    {
-        "word": "ridere",
-        "translation": "lachen"
-    },
-    {
-        "word": "risus",
-        "translation": "Lachen"
-    },
-    {
-        "word": "rogare",
-        "translation": "fragen"
-    },
-    {
-        "word": "rosa",
-        "translation": "Rose"
-    },
-    {
-        "word": "rursus",
-        "translation": "wieder"
-    },
-    {
-        "word": "sacerdos",
-        "translation": "Priester"
-    },
-    {
-        "word": "sanguis",
-        "translation": "Blut"
-    },
-    {
-        "word": "scelus",
-        "translation": "Verbrechen"
-    },
-    {
-        "word": "scire",
-        "translation": "wissen"
-    }
-]
+{
+    "title": "Lektion 17",
+    "vocab": [
+        {
+            "word": "scribere",
+            "translation": "schreiben"
+        },
+        {
+            "word": "sed",
+            "translation": "aber"
+        },
+        {
+            "word": "semper",
+            "translation": "immer"
+        },
+        {
+            "word": "sentire",
+            "translation": "fühlen"
+        },
+        {
+            "word": "septem",
+            "translation": "sieben"
+        },
+        {
+            "word": "servare",
+            "translation": "retten"
+        },
+        {
+            "word": "servus",
+            "translation": "Sklave"
+        },
+        {
+            "word": "sidus",
+            "translation": "Stern"
+        },
+        {
+            "word": "silva",
+            "translation": "Wald"
+        },
+        {
+            "word": "simul",
+            "translation": "gleichzeitig"
+        },
+        {
+            "word": "sinere",
+            "translation": "zulassen"
+        },
+        {
+            "word": "socius",
+            "translation": "Gefährte"
+        },
+        {
+            "word": "sol",
+            "translation": "die Sonne"
+        },
+        {
+            "word": "solere",
+            "translation": "pflegen"
+        },
+        {
+            "word": "sollicitus",
+            "translation": "besorgt"
+        },
+        {
+            "word": "somnus",
+            "translation": "Schlaf"
+        },
+        {
+            "word": "soror",
+            "translation": "Schwester"
+        },
+        {
+            "word": "spectare",
+            "translation": "anschauen"
+        },
+        {
+            "word": "sperare",
+            "translation": "hoffen"
+        },
+        {
+            "word": "spes",
+            "translation": "Hoffnung"
+        }
+    ]
+}
