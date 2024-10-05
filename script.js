@@ -12,9 +12,9 @@ const languageSelect = document.getElementById('language-select');
 const lessonSelect = document.getElementById('lesson-select');
 
 // Audio-Dateien für Soundeffekte
-const correctSound = new Audio('correct.mp3');
-const wrongSound = new Audio('wrong.mp3');
-const backgroundMusic = new Audio('background.mp3');
+const correctSound = new Audio('./assets/correct.mp3');
+const wrongSound = new Audio('./assets/wrong.mp3');
+let backgroundMusic = new Audio('./assets/background1.mp3'); // Standard-Hintergrundmusik
 backgroundMusic.loop = true;
 
 // Fortschritt aus localStorage beim Laden der Seite
@@ -75,7 +75,7 @@ function toggleSettingsPopup() {
 function startLesson() {
     const lesson = lessonSelect.value;
     loadLesson(languageSelect.value, lesson);
-    
+
     if (musicEnabled) {
         backgroundMusic.play(); // Hintergrundmusik starten
     }
@@ -120,8 +120,8 @@ function askQuestion() {
 // Funktion zum Überprüfen der Antwort
 function checkAnswer() {
     const answerInput = document.getElementById('answer').value.trim().toLowerCase();
-    const correctAnswer = revertMode 
-        ? vocabList[currentIndex].word.toLowerCase() 
+    const correctAnswer = revertMode
+        ? vocabList[currentIndex].word.toLowerCase()
         : vocabList[currentIndex].translation.toLowerCase();
 
     if (!progress[vocabList[currentIndex].word]) {
@@ -186,4 +186,17 @@ function showProgress() {
 function endLesson() {
     document.getElementById('vocabulary-container').style.display = 'none';
     // Weitere Aktionen beim Beenden der Lektion (z.B. Fortschritt speichern, Ergebnisse anzeigen, etc.)
+}
+
+// Funktion zum Ändern der Hintergrundmusik
+function changeMusic() {
+    const selectedMusic = document.getElementById('music-select').value;
+    backgroundMusic.src = selectedMusic;
+    backgroundMusic.play(); // Neue Musik abspielen
+}
+
+// Funktion zur Anpassung der Lautstärke der Soundeffekte
+function setSoundVolume(volume) {
+    correctSound.volume = volume;
+    wrongSound.volume = volume;
 }

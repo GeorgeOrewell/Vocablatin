@@ -45,7 +45,15 @@
     <label>
         <input type="checkbox" id="music-checkbox" checked> Hintergrundmusik aktivieren
     </label><br>
-    <label for="music-volume">Lautstärke:</label>
+
+    <select id="music-select" onchange="changeMusic()">
+        <option value="./assets/background1.mp3">Musik 1</option>
+        <option value="./assets/background2.mp3">Musik 2</option>
+        <option value="./assets/background3.mp3">Musik 3</option>
+    </select>
+    <label for="sound-volume">Soundeffekte-Lautstärke:</label>
+    <input id="sound-volume" type="range" min="0" max="1" step="0.01" value="1" onchange="setSoundVolume(this.value)"><br>
+    <label for="music-volume">Musik Lautstärke:</label>
     <input type="range" id="music-volume" min="0" max="1" step="0.1" value="1" oninput="setMusicVolume(this.value)">
     <br>
     <label for="language-select">Sprache:</label>

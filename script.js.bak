@@ -5,9 +5,11 @@ let progress = {};
 let questionStartTime; // Startzeit für die aktuelle Frage
 let lessonStartTime; // Startzeit für die Lektion
 let shuffleMode = false; // Standardmäßig nicht im Shuffle-Modus
+let revertMode = false; // Standardmäßig nicht im Revert-Modus
+let soundEnabled = true; // Standardmäßig Soundeffekte aktiviert
+let musicEnabled = true; // Standardmäßig Hintergrundmusik aktiviert
 const languageSelect = document.getElementById('language-select');
 const lessonSelect = document.getElementById('lesson-select');
-const shuffleCheckbox = document.getElementById('shuffle-checkbox'); // Checkbox für Shuffle-Modus
 
 // Audio-Dateien für Soundeffekte
 const correctSound = new Audio('correct.mp3');
@@ -22,15 +24,61 @@ window.onload = function() {
     } else {
         progress = {};
     }
+
+    // Einstellungen aus localStorage laden
+    loadSettings();
 };
+
+// Funktion zum Speichern der Einstellungen
+function saveSettings() {
+    shuffleMode = document.getElementById('shuffle-checkbox').checked;
+    revertMode = document.getElementById('revert-checkbox').checked;
+    soundEnabled = document.getElementById('sound-checkbox').checked;
+    musicEnabled = document.getElementById('music-checkbox').checked;
+
+    // Einstellungen in localStorage speichern
+    localStorage.setItem('settings', JSON.stringify({
+        shuffleMode,
+        revertMode,
+        soundEnabled,
+        musicEnabled,
+        language: languageSelect.value,
+    }));
+
+    toggleSettingsPopup(); // Pop-up schließen
+}
+
+// Funktion zum Laden der Einstellungen
+function loadSettings() {
+    const settings = JSON.parse(localStorage.getItem('settings'));
+    if (settings) {
+        document.getElementById('shuffle-checkbox').checked = settings.shuffleMode;
+        document.getElementById('revert-checkbox').checked = settings.revertMode;
+        document.getElementById('sound-checkbox').checked = settings.soundEnabled;
+        document.getElementById('music-checkbox').checked = settings.musicEnabled;
+        languageSelect.value = settings.language;
+    }
+}
+
+// Funktion zum Setzen der Lautstärke der Hintergrundmusik
+function setMusicVolume(volume) {
+    backgroundMusic.volume = volume; // Lautstärke setzen
+}
+
+// Funktion zum Öffnen/Schließen des Einstellungs-Pop-ups
+function toggleSettingsPopup() {
+    const popup = document.getElementById('settings-popup');
+    popup.style.display = (popup.style.display === 'none' || popup.style.display === '') ? 'block' : 'none';
+}
 
 // Funktion zum Starten der Lektion
 function startLesson() {
-    const language = languageSelect.value;
     const lesson = lessonSelect.value;
-    shuffleMode = shuffleCheckbox.checked; // Überprüfen, ob Shuffle-Modus aktiviert ist
-    loadLesson(language, lesson);
-    backgroundMusic.play(); // Hintergrundmusik starten
+    loadLesson(languageSelect.value, lesson);
+    
+    if (musicEnabled) {
+        backgroundMusic.play(); // Hintergrundmusik starten
+    }
     lessonStartTime = new Date().getTime(); // Zeit beim Start der Lektion setzen
 }
 
@@ -63,7 +111,7 @@ function shuffleVocabulary(vocabArray) {
 // Funktion zum Stellen der Frage
 function askQuestion() {
     const vocab = vocabList[currentIndex];
-    document.getElementById('question').textContent = `Übersetze: ${vocab.word}`;
+    document.getElementById('question').textContent = `Übersetze: ${revertMode ? vocab.translation : vocab.word}`;
     document.getElementById('answer').value = '';
     document.getElementById('result').textContent = '';
     questionStartTime = new Date().getTime(); // Zeit beim Stellen der Frage setzen
@@ -72,11 +120,12 @@ function askQuestion() {
 // Funktion zum Überprüfen der Antwort
 function checkAnswer() {
     const answerInput = document.getElementById('answer').value.trim().toLowerCase();
-    const correctAnswer = vocabList[currentIndex].translation.toLowerCase();
-    const vocabWord = vocabList[currentIndex].word;
+    const correctAnswer = revertMode 
+        ? vocabList[currentIndex].word.toLowerCase() 
+        : vocabList[currentIndex].translation.toLowerCase();
 
-    if (!progress[vocabWord]) {
-        progress[vocabWord] = { correct: 0, incorrect: 0 };
+    if (!progress[vocabList[currentIndex].word]) {
+        progress[vocabList[currentIndex].word] = { correct: 0, incorrect: 0 };
     }
 
     if (answerInput === correctAnswer) {
@@ -85,15 +134,15 @@ function checkAnswer() {
         if (answerTime <= 8000) {
             score += 2; // Bonuspunkte für schnelle Antwort
         }
-        progress[vocabWord].correct++;
+        progress[vocabList[currentIndex].word].correct++;
         document.getElementById('result').textContent = 'Richtig!';
-        correctSound.play(); // Richtig-Antwort-Sound abspielen
+        if (soundEnabled) correctSound.play(); // Richtig-Antwort-Sound abspielen
         document.getElementById('score-display').style.color = 'green'; // Punkteanzeige grün
     } else {
         score -= 3;
-        progress[vocabWord].incorrect++;
+        progress[vocabList[currentIndex].word].incorrect++;
         document.getElementById('result').textContent = `Falsch! Die richtige Antwort ist: ${correctAnswer}`;
-        wrongSound.play(); // Falsch-Antwort-Sound abspielen
+        if (soundEnabled) wrongSound.play(); // Falsch-Antwort-Sound abspielen
         document.getElementById('score-display').style.color = 'red'; // Punkteanzeige rot
     }
 
@@ -136,13 +185,5 @@ function showProgress() {
 // Funktion zum Beenden der Lektion
 function endLesson() {
     document.getElementById('vocabulary-container').style.display = 'none';
-    showProgress();
-
-    // Berechnung der benötigten Zeit
-    const lessonEndTime = new Date().getTime();
-    const totalTime = Math.floor((lessonEndTime - lessonStartTime) / 1000); // In Sekunden
-    alert(`Lektion abgeschlossen! Benötigte Zeit: ${totalTime} Sekunden`);
-
-    backgroundMusic.pause(); // Hintergrundmusik stoppen
-    backgroundMusic.currentTime = 0; // Zurücksetzen
+    // Weitere Aktionen beim Beenden der Lektion (z.B. Fortschritt speichern, Ergebnisse anzeigen, etc.)
 }
