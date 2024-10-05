@@ -77,7 +77,14 @@
             }
         </script>
     </select>
-
+<script>
+document.getElementById("answer").addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        event.preventDefault(); // Verhindert das Standardverhalten (z.B. das Absenden des Formulars)
+        checkAnswer(); // Ruft die Funktion auf
+    }
+});
+</script>
 <script>
 document.getElementById("answer").addEventListener("keydown", function(event) {
     if (event.key === "Enter") {
