@@ -40,12 +40,20 @@
     <select id="lesson-select">
         <!-- Generiere Lektionen bis zu Lektion 50 -->
         <script>
-            for (let i = 1; i <= 50; i++) {
+            for (let i = 1; i <= 28; i++) {
                 document.write(`<option value="lektion${i}.json">Lektion ${i}</option>`);
             }
         </script>
     </select>
 
+<script>
+document.getElementById("answer").addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        event.preventDefault(); // Verhindert das Standardverhalten (z.B. das Absenden des Formulars)
+        checkAnswer(); // Ruft die Funktion auf
+    }
+});
+</script>
     <script src="script.js"></script>
 </body>
 </html>
