@@ -4,12 +4,12 @@ let score = 0;
 let progress = {};
 let questionStartTime; // Startzeit für die aktuelle Frage
 let lessonStartTime; // Startzeit für die Lektion
-let incorrectVocabList = []; // Liste für falsch beantwortete Vokabeln
-let reviewMode = false; // Flag, um den Wiederholungsmodus anzuzeigen
-
+let shuffleMode = false; // Standardmäßig nicht im Shuffle-Modus
+let revertMode = false; // Standardmäßig nicht im Revert-Modus
+let soundEnabled = true; // Standardmäßig Soundeffekte aktiviert
+let musicEnabled = true; // Standardmäßig Hintergrundmusik aktiviert
 const languageSelect = document.getElementById('language-select');
 const lessonSelect = document.getElementById('lesson-select');
-const revertModeCheckbox = document.getElementById('revert-mode'); // Checkbox für Revert Mode
 
 // Audio-Dateien für Soundeffekte
 const correctSound = new Audio('correct.mp3');
@@ -24,16 +24,65 @@ window.onload = function() {
     } else {
         progress = {};
     }
+
+    // Einstellungen aus localStorage laden
+    loadSettings();
 };
 
+// Funktion zum Speichern der Einstellungen
+function saveSettings() {
+    shuffleMode = document.getElementById('shuffle-checkbox').checked;
+    revertMode = document.getElementById('revert-checkbox').checked;
+    soundEnabled = document.getElementById('sound-checkbox').checked;
+    musicEnabled = document.getElementById('music-checkbox').checked;
+
+    // Einstellungen in localStorage speichern
+    localStorage.setItem('settings', JSON.stringify({
+        shuffleMode,
+        revertMode,
+        soundEnabled,
+        musicEnabled,
+        language: languageSelect.value,
+    }));
+
+    toggleSettingsPopup(); // Pop-up schließen
+}
+
+// Funktion zum Laden der Einstellungen
+function loadSettings() {
+    const settings = JSON.parse(localStorage.getItem('settings'));
+    if (settings) {
+        document.getElementById('shuffle-checkbox').checked = settings.shuffleMode;
+        document.getElementById('revert-checkbox').checked = settings.revertMode;
+        document.getElementById('sound-checkbox').checked = settings.soundEnabled;
+        document.getElementById('music-checkbox').checked = settings.musicEnabled;
+        languageSelect.value = settings.language;
+    }
+}
+
+// Funktion zum Setzen der Lautstärke der Hintergrundmusik
+function setMusicVolume(volume) {
+    backgroundMusic.volume = volume; // Lautstärke setzen
+}
+
+// Funktion zum Öffnen/Schließen des Einstellungs-Pop-ups
+function toggleSettingsPopup() {
+    const popup = document.getElementById('settings-popup');
+    popup.style.display = (popup.style.display === 'none' || popup.style.display === '') ? 'block' : 'none';
+}
+
+// Funktion zum Starten der Lektion
 function startLesson() {
-    const language = languageSelect.value;
     const lesson = lessonSelect.value;
-    loadLesson(language, lesson);
-    backgroundMusic.play(); // Hintergrundmusik starten
+    loadLesson(languageSelect.value, lesson);
+    
+    if (musicEnabled) {
+        backgroundMusic.play(); // Hintergrundmusik starten
+    }
     lessonStartTime = new Date().getTime(); // Zeit beim Start der Lektion setzen
 }
 
+// Funktion zum Laden der Lektion
 function loadLesson(language, lesson) {
     const lessonPath = `${language}/${lesson}`;
     fetch(lessonPath)
@@ -41,70 +90,60 @@ function loadLesson(language, lesson) {
         .then(data => {
             vocabList = data.vocab;
             currentIndex = 0;
+
+            if (shuffleMode) {
+                shuffleVocabulary(vocabList); // Vokabeln zufällig anordnen
+            }
+
             document.getElementById('vocabulary-container').style.display = 'block';
             askQuestion();
         });
 }
 
+// Funktion zum Mischen der Vokabeln
+function shuffleVocabulary(vocabArray) {
+    for (let i = vocabArray.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [vocabArray[i], vocabArray[j]] = [vocabArray[j], vocabArray[i]];
+    }
+}
+
+// Funktion zum Stellen der Frage
 function askQuestion() {
     const vocab = vocabList[currentIndex];
-    
-    // Überprüfung, ob Revert Mode aktiv ist
-    if (revertModeCheckbox.checked) {
-        document.getElementById('question').textContent = `Übersetze: ${vocab.translation}`; // Deutsch -> Latein
-    } else {
-        document.getElementById('question').textContent = `Übersetze: ${vocab.word}`; // Latein -> Deutsch
-    }
-
+    document.getElementById('question').textContent = `Übersetze: ${revertMode ? vocab.translation : vocab.word}`;
     document.getElementById('answer').value = '';
     document.getElementById('result').textContent = '';
     questionStartTime = new Date().getTime(); // Zeit beim Stellen der Frage setzen
 }
 
+// Funktion zum Überprüfen der Antwort
 function checkAnswer() {
     const answerInput = document.getElementById('answer').value.trim().toLowerCase();
-    const vocab = vocabList[currentIndex];
-    let correctAnswer;
+    const correctAnswer = revertMode 
+        ? vocabList[currentIndex].word.toLowerCase() 
+        : vocabList[currentIndex].translation.toLowerCase();
 
-    // Überprüfung, ob Revert Mode aktiv ist
-    if (revertModeCheckbox.checked) {
-        correctAnswer = vocab.word.toLowerCase(); // Deutsch -> Latein
-    } else {
-        correctAnswer = vocab.translation.toLowerCase(); // Latein -> Deutsch
-    }
-
-    if (!progress[vocab.word]) {
-        progress[vocab.word] = { correct: 0, incorrect: 0 };
+    if (!progress[vocabList[currentIndex].word]) {
+        progress[vocabList[currentIndex].word] = { correct: 0, incorrect: 0 };
     }
 
     if (answerInput === correctAnswer) {
+        score += 5;
         const answerTime = new Date().getTime() - questionStartTime;
-
-        // Unterschiedliche Punktvergabe je nach Modus
-        if (reviewMode) {
-            score += 4; // 4 Punkte für wiederholte Vokabeln
-        } else {
-            score += 5; // 5 Punkte für normale Vokabeln
-            if (answerTime <= 8000) {
-                score += 2; // Bonuspunkte für schnelle Antwort
-            }
+        if (answerTime <= 8000) {
+            score += 2; // Bonuspunkte für schnelle Antwort
         }
-        
-        progress[vocab.word].correct++;
+        progress[vocabList[currentIndex].word].correct++;
         document.getElementById('result').textContent = 'Richtig!';
-        correctSound.play(); // Richtig-Antwort-Sound abspielen
+        if (soundEnabled) correctSound.play(); // Richtig-Antwort-Sound abspielen
         document.getElementById('score-display').style.color = 'green'; // Punkteanzeige grün
     } else {
         score -= 3;
-        progress[vocab.word].incorrect++;
+        progress[vocabList[currentIndex].word].incorrect++;
         document.getElementById('result').textContent = `Falsch! Die richtige Antwort ist: ${correctAnswer}`;
-        wrongSound.play(); // Falsch-Antwort-Sound abspielen
+        if (soundEnabled) wrongSound.play(); // Falsch-Antwort-Sound abspielen
         document.getElementById('score-display').style.color = 'red'; // Punkteanzeige rot
-
-        // Falsch beantwortete Vokabel zur Liste hinzufügen, nur im normalen Modus
-        if (!reviewMode) {
-            incorrectVocabList.push(vocabList[currentIndex]);
-        }
     }
 
     // Fortschritt speichern
@@ -116,26 +155,18 @@ function checkAnswer() {
         currentIndex++;
         if (currentIndex < vocabList.length) {
             askQuestion();
-        } else if (!reviewMode && incorrectVocabList.length > 0) {
-            startReview(); // Wenn die Lektion vorbei ist und es falsch beantwortete Vokabeln gibt, Review starten
         } else {
             endLesson();
         }
     }, 2000); // 2-sekündige Verzögerung
 }
 
-function startReview() {
-    reviewMode = true; // Review-Modus aktivieren
-    vocabList = incorrectVocabList; // Vokabeln durch falsch beantwortete ersetzen
-    currentIndex = 0;
-    incorrectVocabList = []; // Leeren, um doppelte Einträge zu verhindern
-    askQuestion();
-}
-
+// Funktion zur Aktualisierung der Punkteanzeige
 function updateScoreDisplay() {
     document.getElementById('score-display').textContent = score;
 }
 
+// Funktion zur Anzeige des Fortschritts
 function showProgress() {
     const lesson = lessonSelect.value;
     let learnedCount = 0;
@@ -151,22 +182,8 @@ function showProgress() {
     alert(`Fortschritt in ${lesson}: ${learnedCount}/${vocabList.length} gelernt (${learnedPercentage.toFixed(2)}%)`);
 }
 
+// Funktion zum Beenden der Lektion
 function endLesson() {
-    if (reviewMode && incorrectVocabList.length > 0) {
-        // Wenn im Review-Modus noch falsche Vokabeln vorhanden sind, erneut starten
-        startReview();
-    } else {
-        document.getElementById('vocabulary-container').style.display = 'none';
-        showProgress();
-
-        // Berechnung der benötigten Zeit
-        const lessonEndTime = new Date().getTime();
-        const totalTime = Math.floor((lessonEndTime - lessonStartTime) / 1000); // In Sekunden
-        alert(`Lektion abgeschlossen! Benötigte Zeit: ${totalTime} Sekunden`);
-
-        backgroundMusic.pause(); // Hintergrundmusik stoppen
-        backgroundMusic.currentTime = 0; // Zurücksetzen
-
-        reviewMode = false; // Wiederholungsmodus zurücksetzen
-    }
+    document.getElementById('vocabulary-container').style.display = 'none';
+    // Weitere Aktionen beim Beenden der Lektion (z.B. Fortschritt speichern, Ergebnisse anzeigen, etc.)
 }

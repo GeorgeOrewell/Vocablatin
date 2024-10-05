@@ -26,19 +26,42 @@
         <button onclick="checkAnswer()">Antwort überprüfen</button>
         <p id="result"></p>
     </div>
-    <!-- Auswahl der Sprache -->
-    <label for="language-select">Wähle eine Sprache:</label>
+
+<!-- Button zum Öffnen des Einstellungs-Pop-ups -->
+<button id="settings-button" onclick="toggleSettingsPopup()">Einstellungen</button>
+
+<!-- Pop-up für Einstellungen -->
+<div id="settings-popup" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); background-color:white; border:1px solid #ccc; padding:20px; z-index:1000;">
+    <h3>Einstellungen</h3>
+    <label>
+        <input type="checkbox" id="shuffle-checkbox"> Shuffle Modus aktivieren
+    </label><br>
+    <label>
+        <input type="checkbox" id="revert-checkbox"> Revert Modus aktivieren
+    </label><br>
+    <label>
+        <input type="checkbox" id="sound-checkbox" checked> Soundeffekte aktivieren
+    </label><br>
+    <label>
+        <input type="checkbox" id="music-checkbox" checked> Hintergrundmusik aktivieren
+    </label><br>
+    <label for="music-volume">Lautstärke:</label>
+    <input type="range" id="music-volume" min="0" max="1" step="0.1" value="1" oninput="setMusicVolume(this.value)">
+    <br>
+    <label for="language-select">Sprache:</label>
     <select id="language-select">
         <option value="latein">Latein</option>
         <option value="franzoesisch">Französisch</option>
-        <!-- Weitere Sprachen hier -->
-    </select>
-<label for="revert-mode">Revert Mode:</label>
-<input type="checkbox" id="revert-mode">
+        <!-- Weitere Sprachen können hier hinzugefügt werden -->
+    </select><br><br>
+    <button onclick="saveSettings()">Speichern</button>
+    <button onclick="toggleSettingsPopup()">Schließen</button>
+</div>
+
     <!-- Auswahl der Lektionen -->
     <label for="lesson-select">Wähle eine Lektion:</label>
     <select id="lesson-select">
-        <!-- Generiere Lektionen bis zu Lektion 50 -->
+        <!-- Generiere Lektionen-->
         <script>
             for (let i = 1; i <= 28; i++) {
                 document.write(`<option value="lektion${i}.json">Lektion ${i}</option>`);
