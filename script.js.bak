@@ -13,15 +13,6 @@ const wrongSound = new Audio('wrong.mp3');
 const backgroundMusic = new Audio('background.mp3');
 backgroundMusic.loop = true;
 
-// Fortschritt aus localStorage beim Laden der Seite
-window.onload = function() {
-    if (localStorage.getItem('progress')) {
-        progress = JSON.parse(localStorage.getItem('progress'));
-    } else {
-        progress = {};
-    }
-};
-
 // Fortgeschrittener Cache-Speicher für den Fortschritt
 if (localStorage.getItem('progress')) {
     progress = JSON.parse(localStorage.getItem('progress'));
@@ -84,19 +75,17 @@ function checkAnswer() {
         document.getElementById('score-display').style.color = 'red'; // Punkteanzeige rot
     }
 
+    // Nächste Frage oder Abschluss der Lektion
+    currentIndex++;
+    if (currentIndex < vocabList.length) {
+        askQuestion();
+    } else {
+        endLesson();
+    }
+
     // Fortschritt speichern
     localStorage.setItem('progress', JSON.stringify(progress));
     updateScoreDisplay();
-
-    // 2 Sekunden Pause, bevor die nächste Frage gestellt wird
-    setTimeout(() => {
-        currentIndex++;
-        if (currentIndex < vocabList.length) {
-            askQuestion();
-        } else {
-            endLesson();
-        }
-    }, 2000); // 2-sekündige Verzögerung
 }
 
 function updateScoreDisplay() {

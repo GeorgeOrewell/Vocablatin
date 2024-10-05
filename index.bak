@@ -20,12 +20,10 @@
     <!-- Auswahl der Lektionen -->
     <label for="lesson-select">Wähle eine Lektion:</label>
     <select id="lesson-select">
-        <!-- Generiere Lektionen bis zu Lektion 50 -->
-        <script>
-            for (let i = 1; i <= 50; i++) {
-                document.write(`<option value="lektion${i}.json">Lektion ${i}</option>`);
-            }
-        </script>
+        <option value="lektion1.json">Lektion 1</option>
+        <option value="lektion2.json">Lektion 2</option>
+        <option value="lektion3.json">Lektion 3</option>
+        <!-- Weitere Lektionen hier -->
     </select>
 
     <div id="score">
@@ -33,9 +31,6 @@
     </div>
 
     <button onclick="startLesson()">Lektion starten</button>
-
-    <!-- Fortschritts-Button -->
-    <button onclick="showProgress()">Persönlichen Fortschritt anzeigen</button>
 
     <!-- Anzeige der Vokabeln -->
     <div id="vocabulary-container" style="display: none;">
