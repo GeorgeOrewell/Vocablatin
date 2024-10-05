@@ -14,7 +14,7 @@ const lessonSelect = document.getElementById('lesson-select');
 // Audio-Dateien für Soundeffekte
 const correctSound = new Audio('./assets/correct.mp3');
 const wrongSound = new Audio('./assets/wrong2.mp3');
-let backgroundMusic = new Audio('./assets/background1.mp3'); // Standard-Hintergrundmusik
+let backgroundMusic = new Audio('./assets/background4.mp3'); // Standard-Hintergrundmusik
 backgroundMusic.loop = true;
 
 // Fortschritt aus localStorage beim Laden der Seite
