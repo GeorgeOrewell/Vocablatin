@@ -4,7 +4,7 @@ let score = 0;
 let progress = {};
 let questionStartTime; // Startzeit für die aktuelle Frage
 let lessonStartTime; // Startzeit für die Lektion
-let shuffleMode = false; // Standardmäßig nicht im Shuffle-Modus
+let shuffleMode = true; // Standardmäßig nicht im Shuffle-Modus
 let revertMode = false; // Standardmäßig nicht im Revert-Modus
 let soundEnabled = true; // Standardmäßig Soundeffekte aktiviert
 let musicEnabled = true; // Standardmäßig Hintergrundmusik aktiviert
@@ -59,6 +59,7 @@ function saveSettings() {
     localStorage.setItem('settings', JSON.stringify({
         shuffleMode,
         revertMode,
+        retryIncorrect,
         soundEnabled,
         musicEnabled,
         language: languageSelect.value,
