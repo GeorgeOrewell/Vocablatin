@@ -36,6 +36,7 @@ if ('serviceWorker' in navigator) {
 // Fortschritt aus localStorage beim Laden der Seite
 window.onload = function() {
 //    saveSettings();
+    updateScoreDisplay();
     setSoundVolume(0.1);
     if (localStorage.getItem('progress')) {
         progress = JSON.parse(localStorage.getItem('progress'));
@@ -147,7 +148,7 @@ function askQuestion() {
 }
 
 // Funktion zum Überprüfen der Antwort
-function checkAnswer() {                                                                                                                         
+function checkAnswer() {
     const answerInput = document.getElementById('answer').value.trim().toLowerCase();
     const correctAnswer = revertMode
         ? vocabList[currentIndex].word.toLowerCase()
@@ -187,7 +188,7 @@ function checkAnswer() {
     }
 
     // Fortschritt speichern
-    setScore(score);
+    saveScore(score);
     localStorage.setItem('progress', JSON.stringify(progress));
     updateScoreDisplay();
 
