@@ -2,84 +2,84 @@
     "title": "Lektion 10",
     "vocab": [
         {
-            "word": "ignis",
-            "translation": "Feuer"
+            "word": "furor",
+            "translation": "Wut"
         },
         {
-            "word": "ille",
-            "translation": "jener"
+            "word": "hostis",
+            "translation": "Feind"
+        },
+        {
+            "word": "nocere",
+            "translation": "schaden"
+        },
+        {
+            "word": "finis",
+            "translation": "Ende"
+        },
+        {
+            "word": "septem",
+            "translation": "sieben"
+        },
+        {
+            "word": "habere",
+            "translation": "haben"
+        },
+        {
+            "word": "credere",
+            "translation": "glauben"
+        },
+        {
+            "word": "emere",
+            "translation": "kaufen"
+        },
+        {
+            "word": "delectare",
+            "translation": "erfreuen"
+        },
+        {
+            "word": "populus",
+            "translation": "Volk"
+        },
+        {
+            "word": "providere",
+            "translation": "vorhersehen"
+        },
+        {
+            "word": "corpus",
+            "translation": "Körper"
+        },
+        {
+            "word": "cum",
+            "translation": "mit"
+        },
+        {
+            "word": "quam",
+            "translation": "wie"
+        },
+        {
+            "word": "tempus",
+            "translation": "Zeit"
+        },
+        {
+            "word": "castra",
+            "translation": "Lager"
         },
         {
             "word": "imperare",
             "translation": "befehlen"
         },
         {
-            "word": "imperium",
-            "translation": "Befehl"
+            "word": "valere",
+            "translation": "gesund sein"
         },
         {
-            "word": "in",
-            "translation": "in"
+            "word": "trahere",
+            "translation": "ziehen"
         },
         {
-            "word": "inimicus",
-            "translation": "Feind"
-        },
-        {
-            "word": "intellegere",
-            "translation": "verstehen"
-        },
-        {
-            "word": "inter",
-            "translation": "zwischen"
-        },
-        {
-            "word": "interficere",
-            "translation": "töten"
-        },
-        {
-            "word": "invenire",
-            "translation": "finden"
-        },
-        {
-            "word": "ira",
-            "translation": "Zorn"
-        },
-        {
-            "word": "iratus",
-            "translation": "zornig"
-        },
-        {
-            "word": "is",
-            "translation": "er"
-        },
-        {
-            "word": "ita",
-            "translation": "so"
-        },
-        {
-            "word": "iter",
-            "translation": "Weg"
-        },
-        {
-            "word": "iubere",
-            "translation": "befehlen"
-        },
-        {
-            "word": "iudex",
-            "translation": "Richter"
-        },
-        {
-            "word": "iungere",
-            "translation": "verbinden"
-        },
-        {
-            "word": "iuppiter",
-            "translation": "Jupiter"
-        },
-        {
-            "word": "iuvenis",
-            "translation": "junger Mann"
+            "word": "nihil",
+            "translation": "nichts"
         }
     ]
 }

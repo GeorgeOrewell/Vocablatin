@@ -2,84 +2,84 @@
     "title": "Lektion 13",
     "vocab": [
         {
-            "word": "necare",
-            "translation": "töten"
+            "word": "dea",
+            "translation": "Göttin"
         },
         {
-            "word": "negare",
-            "translation": "leugnen"
+            "word": "libertas",
+            "translation": "Freiheit"
         },
         {
-            "word": "nihil",
-            "translation": "nichts"
+            "word": "mittere",
+            "translation": "schicken"
         },
         {
-            "word": "nobilis",
-            "translation": "edel"
+            "word": "os",
+            "translation": "Mund"
         },
         {
-            "word": "nocere",
-            "translation": "schaden"
+            "word": "adsum",
+            "translation": "anwesend sein"
         },
         {
-            "word": "nomen",
-            "translation": "Name"
+            "word": "proelium",
+            "translation": "Schlacht"
         },
         {
-            "word": "nox",
-            "translation": "Nacht"
+            "word": "audire",
+            "translation": "hören"
+        },
+        {
+            "word": "ferrum",
+            "translation": "Eisen"
+        },
+        {
+            "word": "conficere",
+            "translation": "vollenden"
+        },
+        {
+            "word": "bellum",
+            "translation": "Krieg"
+        },
+        {
+            "word": "vis",
+            "translation": "Kraft"
         },
         {
             "word": "numerus",
             "translation": "Zahl"
         },
         {
-            "word": "nunc",
-            "translation": "jetzt"
+            "word": "scire",
+            "translation": "wissen"
         },
         {
-            "word": "nuntius",
-            "translation": "Bote"
+            "word": "tangere",
+            "translation": "berühren"
         },
         {
-            "word": "ob",
-            "translation": "wegen"
+            "word": "pellere",
+            "translation": "stoßen"
         },
         {
-            "word": "occidere",
-            "translation": "töten"
+            "word": "copia",
+            "translation": "Menge"
         },
         {
-            "word": "officium",
-            "translation": "Dienst"
+            "word": "dexter",
+            "translation": "rechts"
         },
         {
-            "word": "omnia",
-            "translation": "alle"
+            "word": "ille",
+            "translation": "jener"
         },
         {
-            "word": "onus",
-            "translation": "Last"
+            "word": "docere",
+            "translation": "lehren"
         },
         {
-            "word": "opprimere",
-            "translation": "unterdrücken"
-        },
-        {
-            "word": "opus",
-            "translation": "Werk"
-        },
-        {
-            "word": "orare",
-            "translation": "beten"
-        },
-        {
-            "word": "oratio",
-            "translation": "Rede"
-        },
-        {
-            "word": "os",
-            "translation": "Mund"
+            "word": "sollicitus",
+            "translation": "besorgt"
         }
     ]
 }

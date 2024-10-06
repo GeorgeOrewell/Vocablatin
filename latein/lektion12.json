@@ -2,84 +2,84 @@
     "title": "Lektion 12",
     "vocab": [
         {
-            "word": "manere",
-            "translation": "bleiben"
+            "word": "quietus",
+            "translation": "ruhig"
         },
         {
-            "word": "manus",
-            "translation": "Hand"
+            "word": "umquam",
+            "translation": "jemals"
         },
         {
-            "word": "mare",
-            "translation": "Meer"
+            "word": "invenire",
+            "translation": "finden"
         },
         {
-            "word": "mater",
-            "translation": "Mutter"
+            "word": "convenire",
+            "translation": "zusammenkommen"
+        },
+        {
+            "word": "domina",
+            "translation": "Herrin"
+        },
+        {
+            "word": "victoria",
+            "translation": "Sieg"
+        },
+        {
+            "word": "exercere",
+            "translation": "üben"
+        },
+        {
+            "word": "virtus",
+            "translation": "Tugend"
+        },
+        {
+            "word": "per",
+            "translation": "durch"
+        },
+        {
+            "word": "relinquere",
+            "translation": "zurücklassen"
+        },
+        {
+            "word": "idem",
+            "translation": "derselbe"
+        },
+        {
+            "word": "felix",
+            "translation": "glücklich"
+        },
+        {
+            "word": "occidere",
+            "translation": "töten"
+        },
+        {
+            "word": "curare",
+            "translation": "pflegen"
+        },
+        {
+            "word": "filia",
+            "translation": "Tochter"
         },
         {
             "word": "maximus",
             "translation": "sehr groß"
         },
         {
-            "word": "medicus",
-            "translation": "Arzt"
+            "word": "facilis",
+            "translation": "leicht"
         },
         {
-            "word": "memoria",
-            "translation": "Erinnerung"
+            "word": "magister",
+            "translation": "Lehrer"
         },
         {
-            "word": "mens",
-            "translation": "Gedanke"
+            "word": "discedere",
+            "translation": "weggehen"
         },
         {
-            "word": "merere",
-            "translation": "verdienen"
-        },
-        {
-            "word": "miles",
-            "translation": "Soldat"
-        },
-        {
-            "word": "miser",
-            "translation": "unglücklich"
-        },
-        {
-            "word": "mittere",
-            "translation": "schicken"
-        },
-        {
-            "word": "moneo",
-            "translation": "ermahnen"
-        },
-        {
-            "word": "mons",
-            "translation": "Berg"
-        },
-        {
-            "word": "mors",
-            "translation": "Tod"
-        },
-        {
-            "word": "mulier",
-            "translation": "Frau"
-        },
-        {
-            "word": "multus",
-            "translation": "viel"
-        },
-        {
-            "word": "murus",
-            "translation": "Mauer"
-        },
-        {
-            "word": "natus",
-            "translation": "geboren"
-        },
-        {
-            "word": "navis",
-            "translation": "Schiff"
+            "word": "vultus",
+            "translation": "Gesicht"
         }
     ]
 }

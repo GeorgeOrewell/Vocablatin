@@ -2,84 +2,84 @@
     "title": "Lektion 19",
     "vocab": [
         {
-            "word": "tristis",
-            "translation": "traurig"
+            "word": "etiam",
+            "translation": "auch"
+        },
+        {
+            "word": "eques",
+            "translation": "Reiter"
+        },
+        {
+            "word": "vir",
+            "translation": "Mann"
+        },
+        {
+            "word": "condere",
+            "translation": "gründen"
+        },
+        {
+            "word": "sidus",
+            "translation": "Stern"
+        },
+        {
+            "word": "consilium",
+            "translation": "Rat"
+        },
+        {
+            "word": "fides",
+            "translation": "Glaube"
+        },
+        {
+            "word": "pax",
+            "translation": "Frieden"
+        },
+        {
+            "word": "expellere",
+            "translation": "vertreiben"
+        },
+        {
+            "word": "factum",
+            "translation": "Tat"
+        },
+        {
+            "word": "miles",
+            "translation": "Soldat"
+        },
+        {
+            "word": "vesper",
+            "translation": "Abend"
+        },
+        {
+            "word": "verbum",
+            "translation": "Wort"
+        },
+        {
+            "word": "ira",
+            "translation": "Zorn"
+        },
+        {
+            "word": "vestis",
+            "translation": "Kleidung"
+        },
+        {
+            "word": "civis",
+            "translation": "Bürger"
+        },
+        {
+            "word": "merere",
+            "translation": "verdienen"
+        },
+        {
+            "word": "efficere",
+            "translation": "bewirken"
         },
         {
             "word": "tu",
             "translation": "du"
         },
         {
-            "word": "tum",
-            "translation": "dann"
-        },
-        {
-            "word": "turba",
-            "translation": "Menge"
-        },
-        {
-            "word": "ubi",
-            "translation": "wo"
-        },
-        {
-            "word": "ullus",
-            "translation": "irgendein"
-        },
-        {
-            "word": "ultimus",
-            "translation": "letzter"
-        },
-        {
-            "word": "umquam",
-            "translation": "jemals"
-        },
-        {
-            "word": "unde",
-            "translation": "woher"
-        },
-        {
-            "word": "unus",
-            "translation": "einer"
-        },
-        {
-            "word": "urbs",
-            "translation": "Stadt"
-        },
-        {
-            "word": "usque",
-            "translation": "bis"
-        },
-        {
-            "word": "ut",
-            "translation": "wenn"
-        },
-        {
-            "word": "uter",
-            "translation": "welcher von beiden"
-        },
-        {
-            "word": "utrum",
-            "translation": "ob"
-        },
-        {
-            "word": "uxor",
-            "translation": "Ehefrau"
-        },
-        {
-            "word": "valere",
-            "translation": "gesund sein"
-        },
-        {
-            "word": "varius",
-            "translation": "verschieden"
-        },
-        {
-            "word": "velle",
-            "translation": "wollen"
-        },
-        {
-            "word": "verbum",
-            "translation": "Wort"
+            "word": "medicus",
+            "translation": "Arzt"
         }
     ]
 }

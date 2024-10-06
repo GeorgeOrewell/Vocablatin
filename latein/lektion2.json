@@ -2,84 +2,84 @@
     "title": "Lektion 2",
     "vocab": [
         {
-            "word": "appareo",
-            "translation": "erscheinen"
+            "word": "causa",
+            "translation": "Grund"
         },
         {
-            "word": "aqua",
-            "translation": "Wasser"
+            "word": "remedium",
+            "translation": "Mittel"
+        },
+        {
+            "word": "prohibere",
+            "translation": "hindern"
+        },
+        {
+            "word": "mater",
+            "translation": "Mutter"
+        },
+        {
+            "word": "risus",
+            "translation": "Lachen"
+        },
+        {
+            "word": "legere",
+            "translation": "lesen"
+        },
+        {
+            "word": "turba",
+            "translation": "Menge"
+        },
+        {
+            "word": "vox",
+            "translation": "Stimme"
+        },
+        {
+            "word": "fateor",
+            "translation": "bekennen"
         },
         {
             "word": "arma",
             "translation": "Waffen"
         },
         {
-            "word": "ars",
-            "translation": "Kunst"
+            "word": "natus",
+            "translation": "geboren"
         },
         {
-            "word": "ascendo",
-            "translation": "hinaufsteigen"
+            "word": "ridere",
+            "translation": "lachen"
         },
         {
-            "word": "atque",
-            "translation": "und"
+            "word": "mons",
+            "translation": "Berg"
         },
         {
-            "word": "auctor",
-            "translation": "Urheber"
+            "word": "rogare",
+            "translation": "fragen"
         },
         {
-            "word": "audacia",
-            "translation": "Kühnheit"
-        },
-        {
-            "word": "audire",
-            "translation": "hören"
-        },
-        {
-            "word": "aufero",
-            "translation": "wegtragen"
-        },
-        {
-            "word": "aut",
-            "translation": "oder"
-        },
-        {
-            "word": "autem",
-            "translation": "aber"
-        },
-        {
-            "word": "avis",
-            "translation": "Vogel"
-        },
-        {
-            "word": "bellum",
-            "translation": "Krieg"
-        },
-        {
-            "word": "bene",
-            "translation": "gut"
-        },
-        {
-            "word": "bonus",
-            "translation": "gut"
-        },
-        {
-            "word": "brevis",
-            "translation": "kurz"
-        },
-        {
-            "word": "caelum",
-            "translation": "Himmel"
-        },
-        {
-            "word": "canis",
-            "translation": "Hund"
+            "word": "delere",
+            "translation": "zerstören"
         },
         {
             "word": "capere",
             "translation": "nehmen"
+        },
+        {
+            "word": "ita",
+            "translation": "so"
+        },
+        {
+            "word": "solere",
+            "translation": "pflegen"
+        },
+        {
+            "word": "consul",
+            "translation": "Konsul"
+        },
+        {
+            "word": "periculum",
+            "translation": "Gefahr"
         }
     ]
 }

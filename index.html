@@ -18,6 +18,7 @@
     <div>
         <button onclick="showProgressTab('latein')">Latein</button>
         <button onclick="showProgressTab('franzoesisch')">Französisch</button>
+        <button onclick="showProgressTab('niederlaendisch')">Niederländisch</button>
         <!-- Weitere Sprachen hier hinzufügen -->
     </div>
     <div id="progress-content"></div>
@@ -74,6 +75,7 @@
         <select id="language-select">
             <option value="latein">Latein</option>
             <option value="franzoesisch">Französisch</option>
+            <option value="niederlaendisch">Niderländisch</option>
             <!-- Weitere Sprachen können hier hinzugefügt werden -->
         </select><br><br>
         <button onclick="saveSettings()">Speichern</button>
@@ -92,7 +94,7 @@
     </select>
 
     <script>
-    // Hinzufügen des Event Listeners für die Enter-Taste
+    // Event Listener für die Enter-Taste
     document.getElementById("answer").addEventListener("keydown", function(event) {
         if (event.key === "Enter") {
             event.preventDefault(); // Verhindert das Standardverhalten (z.B. das Absenden des Formulars)

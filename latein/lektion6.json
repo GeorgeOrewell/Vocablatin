@@ -2,84 +2,84 @@
     "title": "Lektion 6",
     "vocab": [
         {
-            "word": "dies",
-            "translation": "Tag"
+            "word": "laus",
+            "translation": "Lob"
+        },
+        {
+            "word": "praemium",
+            "translation": "Belohnung"
+        },
+        {
+            "word": "fallere",
+            "translation": "täuschen"
+        },
+        {
+            "word": "simul",
+            "translation": "gleichzeitig"
+        },
+        {
+            "word": "publicus",
+            "translation": "öffentlich"
+        },
+        {
+            "word": "flamma",
+            "translation": "Flamme"
+        },
+        {
+            "word": "terra",
+            "translation": "Erde"
+        },
+        {
+            "word": "tantus",
+            "translation": "so groß"
+        },
+        {
+            "word": "mens",
+            "translation": "Gedanke"
+        },
+        {
+            "word": "onus",
+            "translation": "Last"
+        },
+        {
+            "word": "absum",
+            "translation": "ich bin abwesend"
+        },
+        {
+            "word": "tenere",
+            "translation": "halten"
+        },
+        {
+            "word": "aperio",
+            "translation": "ich öffne"
+        },
+        {
+            "word": "decem",
+            "translation": "zehn"
+        },
+        {
+            "word": "miser",
+            "translation": "unglücklich"
         },
         {
             "word": "difficilis",
             "translation": "schwierig"
         },
         {
-            "word": "dignitas",
-            "translation": "Würde"
+            "word": "gens",
+            "translation": "Volk"
         },
         {
-            "word": "diligere",
-            "translation": "lieben"
+            "word": "aufero",
+            "translation": "ich trage weg"
         },
         {
-            "word": "discedere",
-            "translation": "weggehen"
+            "word": "servus",
+            "translation": "Sklave"
         },
         {
-            "word": "dives",
-            "translation": "reich"
-        },
-        {
-            "word": "dividere",
-            "translation": "teilen"
-        },
-        {
-            "word": "do",
-            "translation": "dich"
-        },
-        {
-            "word": "docere",
-            "translation": "lehren"
-        },
-        {
-            "word": "dolor",
-            "translation": "Schmerz"
-        },
-        {
-            "word": "domina",
-            "translation": "Herrin"
-        },
-        {
-            "word": "dominus",
-            "translation": "Herr"
-        },
-        {
-            "word": "domus",
-            "translation": "Haus"
-        },
-        {
-            "word": "donare",
-            "translation": "schenken"
-        },
-        {
-            "word": "donum",
-            "translation": "Geschenk"
-        },
-        {
-            "word": "dubitare",
-            "translation": "zögern"
-        },
-        {
-            "word": "dux",
-            "translation": "Anführer"
-        },
-        {
-            "word": "e",
-            "translation": "aus"
-        },
-        {
-            "word": "ea",
-            "translation": "sie"
-        },
-        {
-            "word": "ecce",
-            "translation": "sieh!"
+            "word": "cursus",
+            "translation": "Lauf"
         }
     ]
 }

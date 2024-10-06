@@ -2,84 +2,84 @@
     "title": "Lektion 9",
     "vocab": [
         {
-            "word": "fugere",
-            "translation": "fliehen"
+            "word": "mare",
+            "translation": "Meer"
         },
         {
-            "word": "fundere",
-            "translation": "gießen"
+            "word": "alienus",
+            "translation": "fremd"
         },
         {
-            "word": "furor",
-            "translation": "Wut"
-        },
-        {
-            "word": "gaudium",
-            "translation": "Freude"
-        },
-        {
-            "word": "gens",
-            "translation": "Volk"
-        },
-        {
-            "word": "gerere",
-            "translation": "tragen"
-        },
-        {
-            "word": "gladius",
-            "translation": "Schwert"
-        },
-        {
-            "word": "gratia",
-            "translation": "Dank"
+            "word": "enim",
+            "translation": "denn"
         },
         {
             "word": "gravis",
             "translation": "schwer"
         },
         {
-            "word": "habere",
-            "translation": "haben"
+            "word": "cogitare",
+            "translation": "denken"
         },
         {
-            "word": "habito",
-            "translation": "wohnen"
+            "word": "primus",
+            "translation": "erster"
         },
         {
-            "word": "haerere",
-            "translation": "hängen"
+            "word": "totus",
+            "translation": "gesamt"
         },
         {
-            "word": "homo",
-            "translation": "Mensch"
+            "word": "adeo",
+            "translation": "so sehr"
         },
         {
-            "word": "honor",
-            "translation": "Ehre"
+            "word": "bonus",
+            "translation": "gut"
         },
         {
-            "word": "hortus",
-            "translation": "Garten"
+            "word": "debere",
+            "translation": "müssen"
         },
         {
-            "word": "hostis",
-            "translation": "Feind"
+            "word": "altus",
+            "translation": "hoch"
         },
         {
-            "word": "humus",
-            "translation": "Boden"
+            "word": "super",
+            "translation": "über"
         },
         {
-            "word": "iam",
-            "translation": "schon"
+            "word": "sed",
+            "translation": "aber"
         },
         {
-            "word": "ibi",
-            "translation": "dort"
+            "word": "pulsare",
+            "translation": "schlagen"
         },
         {
-            "word": "idem",
-            "translation": "derselbe"
+            "word": "classis",
+            "translation": "Flotte"
+        },
+        {
+            "word": "summus",
+            "translation": "höchster"
+        },
+        {
+            "word": "autem",
+            "translation": "aber"
+        },
+        {
+            "word": "lux",
+            "translation": "Licht"
+        },
+        {
+            "word": "nox",
+            "translation": "Nacht"
+        },
+        {
+            "word": "nunc",
+            "translation": "jetzt"
         }
     ]
 }
