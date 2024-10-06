@@ -1,6 +1,6 @@
 let vocabList = []; // Vokabeln der aktuellen Lektion
 let currentIndex = 0;
-let score = 0;
+let score = loadScore();
 let progress = {};
 let questionStartTime; // Startzeit für die aktuelle Frage
 let lessonStartTime; // Startzeit für die Lektion
@@ -187,6 +187,7 @@ function checkAnswer() {
     }
 
     // Fortschritt speichern
+    setScore(score);
     localStorage.setItem('progress', JSON.stringify(progress));
     updateScoreDisplay();
 
@@ -302,4 +303,20 @@ function resetProgress() {
 function setSoundVolume(volume) {
     correctSound.volume = volume;
     wrongSound.volume = volume;
+}
+
+// Speichert die Punkte im localStorage
+function saveScore(score) {
+    localStorage.setItem('score', score);
+}
+
+// Lädt die Punkte aus dem localStorage
+function loadScore() {
+    let score = localStorage.getItem('score');
+    return score ? parseInt(score) : 0;
+}
+
+// Setzt die Punkte zurück
+function resetScore() {
+    localStorage.removeItem('Score');
 }
