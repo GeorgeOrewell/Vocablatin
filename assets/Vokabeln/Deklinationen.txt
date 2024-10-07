@@ -1,0 +1,108 @@
+nominibus:den Namen, mit den Namen
+amicos:die Freunde
+dominos:die Herren
+magistrum:den Lehrer
+nomine:mit dem Namen
+dona:die Geschenke
+bellorum:der Kriege
+magistri:des Lehrers, die Lehrer
+feminam:die Frau
+corpus:der Körper, den Körper
+templum:der Tempel, den Tempel
+verbo:dem Wort, mit dem Wort
+bella:die Kriege
+verbis:den Worten, mit den Worten
+dominis:den Herren
+dono:dem Geschenk, mit dem Geschenk
+ancillae:der Magd, die Mägde
+regis:des Königs
+feminarum:der Frauen
+puer:der Junge
+amico:dem Freund, mit dem Freund
+regum:der Könige
+feminas:die Frauen
+verbum:das Wort
+amici:des Freundes, die Freunde
+templa:die Tempel
+homini:dem Menschen
+nomina:die Namen
+terrae:der Erde, die Erden
+pueris:den Jungen, mit den Jungen
+amicum:den Freund
+nomen:der Name, den Namen
+homines:die Menschen
+feminis:den Frauen, mit den Frauen
+domini:des Herrn, die Herren
+donum:das Geschenk
+regi:dem König
+templo:dem Tempel, mit dem Tempel
+donorum:der Geschenke
+terra:die Erde, mit der Erde
+pueri:des Jungen, die Jungen
+reges:die Könige
+nominum:der Namen
+puerum:den Jungen
+dominis:mit den Herren
+terram:die Erde
+ancilla:die Magd, mit der Magd
+terris:den Erden, mit den Erden
+ancillarum:der Mägde
+templorum:der Tempel
+bello:dem Krieg, mit dem Krieg
+regem:den König
+hominis:des Menschen
+dominus:der Herr
+ancillis:den Mägden, mit den Mägden
+verbi:des Wortes
+ancillam:die Magd
+corporum:der Körper
+pueros:die Jungen
+templi:des Tempels
+corporis:des Körpers
+feminae:die Frauen
+rex:der König
+verborum:der Worte
+nomini:dem Namen
+homo:der Mensch
+bellum:der Krieg, den Krieg
+puellae:des Mädchens, dem Mädchen, die Mädchen
+puellis:den Mädchen, mit den Mädchen
+dominum:den Herrn
+corporibus:den Körpern, mit den Körpern
+corpora:die Körper
+amicorum:der Freunde
+hominibus:den Menschen, mit den Menschen
+doni:des Geschenkes
+puellas:die Mädchen
+rege:mit dem König
+amicis:den Freunden, mit den Freunden
+ancillas:die Mägde
+verba:die Worte
+dominorum:der Herren
+donis:den Geschenken, mit den Geschenken
+bellis:den Kriegen, mit den Kriegen
+domino:dem Herrn, mit dem Herrn
+magistros:die Lehrer
+puellam:das Mädchen
+magister:der Lehrer
+regibus:den Königen, mit den Königen
+belli:des Krieges
+amicus:der Freund
+magistris:den Lehrern, mit den Lehrern
+terras:die Erden
+corpore:mit dem Körper
+magistro:dem Lehrer, mit dem Lehrer
+terrarum:der Erden
+hominum:der Menschen
+hominem:den Menschen
+puero:dem Jungen, mit dem Jungen
+puellarum:der Mädchen
+puella:das Mädchen, mit dem Mädchen
+magistrorum:der Lehrer
+femina:die Frau, mit der Frau
+templis:den Tempeln, mit den Tempeln
+puerorum:der Jungen
+nominis:des Namens
+homine:mit dem Menschen
+feminae:der Frau
+corpori:dem Körper

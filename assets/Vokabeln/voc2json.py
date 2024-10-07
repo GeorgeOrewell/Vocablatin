@@ -17,18 +17,18 @@ def convert_to_json(file_path):
     # Speichere jede Lektion in einer separaten JSON-Datei
     lesson_num = 1
     for lesson in lessons:
-        while os.path.exists(f'lektion{lesson_num}.json'):
+        while os.path.exists(f'deklination{lesson_num}.json'):
             lesson_num += 1
 
         lesson_data = {
-            "title": f"Lektion {lesson_num}",
+            "title": f"deklination {lesson_num}",
             "vocab": lesson
         }
 
-        with open(f'lektion{lesson_num}.json', 'w', encoding='utf-8') as json_file:
+        with open(f'deklination{lesson_num}.json', 'w', encoding='utf-8') as json_file:
             json.dump(lesson_data, json_file, ensure_ascii=False, indent=4)
 
-        print(f"Lektion {lesson_num} gespeichert.")
+        print(f"deklination {lesson_num} gespeichert.")
 
 if __name__ == "__main__":
     file_path = input("Pfad zur Vokabel-Datei eingeben: ")
