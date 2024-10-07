@@ -11,7 +11,7 @@ def convert_to_json(file_path, prefix):
         vocab_list.append({"word": word, "translation": translation})
 
     # Teile die Vokabeln in Lektionen auf
-    lesson_size = 30
+    lesson_size = 20
     lessons = [vocab_list[i:i + lesson_size] for i in range(0, len(vocab_list), lesson_size)]
 
     # Speichere jede Lektion in einer separaten JSON-Datei

@@ -1,0 +1,883 @@
+ja:ich
+ty:du
+on:er
+ona:sie
+my:wir
+wy:ihr
+oni:sie
+być:sein
+mieć:haben
+robić:machen
+i:und
+ale:aber
+albo:oder
+nie:nicht
+tak:ja
+nie:nein
+co:was
+kto:wer
+gdzie:wo
+kiedy:wann
+dlaczego:warum
+jak:wie
+który:welcher
+ten:diese
+ta:diese
+to:diese
+tam:da
+tu:hier
+wszędzie:überall
+nigdzie:nirgends
+teraz:jetzt
+później:später
+zawsze:immer
+nigdy:nie
+może:vielleicht
+bardzo:sehr
+trochę:ein bisschen
+dobrze:gut
+źle:schlecht
+dużo:viel
+mało:wenig
+człowiek:Mensch
+mężczyzna:Mann
+kobieta:Frau
+dziecko:Kind
+rodzina:Familie
+dom:Haus
+przyjaciel:Freund
+szkoła:Schule
+praca:Arbeit
+miasto:Stadt
+kraj:Land
+świat:Welt
+rzeka:Fluss
+morze:Meer
+jezioro:See
+góra:Berg
+drzewo:Baum
+kwiat:Blume
+słońce:Sonne
+księżyc:Mond
+gwiazda:Stern
+niebo:Himmel
+woda:Wasser
+ogień:Feuer
+ziemia:Erde
+powietrze:Luft
+czas:Zeit
+dzień:Tag
+noc:Nacht
+rano:Morgen
+wieczór:Abend
+godzina:Stunde
+minuta:Minute
+sekunda:Sekunde
+poniedziałek:Montag
+wtorek:Dienstag
+środa:Mittwoch
+czwartek:Donnerstag
+piątek:Freitag
+sobota:Samstag
+niedziela:Sonntag
+styczeń:Januar
+luty:Februar
+marzec:März
+kwiecień:April
+maj:Mai
+czerwiec:Juni
+lipiec:Juli
+sierpień:August
+wrzesień:September
+październik:Oktober
+listopad:November
+grudzień:Dezember
+jeden:eins
+dwa:zwei
+trzy:drei
+cztery:vier
+pięć:fünf
+sześć:sechs
+siedem:sieben
+osiem:acht
+dziewięć:neun
+dziesięć:zehn
+jedenaście:elf
+dwanaście:zwölf
+trzynaście:dreizehn
+czternaście:vierzehn
+piętnaście:fünfzehn
+szesnaście:sechzehn
+siedemnaście:siebzehn
+osiemnaście:achtzehn
+dziewiętnaście:neunzehn
+dwadzieścia:zwanzig
+trzydzieści:dreißig
+czterdzieści:vierzig
+pięćdziesiąt:fünfzig
+sześćdziesiąt:sechzig
+siedemdziesiąt:siebzig
+osiemdziesiąt:achtzig
+dziewięćdziesiąt:neunzig
+sto:hundert
+tysiąc:tausend
+milion:Million
+chleb:Brot
+woda:Wasser
+mleko:Milch
+jajko:Ei
+mięso:Fleisch
+ryba:Fisch
+ser:Käse
+jabłko:Apfel
+banan:Banane
+pomidor:Tomate
+ziemniak:Kartoffel
+chcę:ich will
+muszę:ich muss
+mogę:ich kann
+widzieć:sehen
+słyszeć:hören
+mówić:sprechen
+rozumieć:verstehen
+pisać:schreiben
+czytać:lesen
+kupować:kaufen
+sprzedawać:verkaufen
+jeść:essen
+pić:trinken
+spać:schlafen
+budzić się:wach werden
+bawić się:spielen
+pracować:arbeiten
+uczyć się:lernen
+prowadzić:fahre
+biegać:rennen
+chodzić:gehen
+kochać:lieben
+nienawidzić:hassen
+czuć się:sich fühlen
+myśleć:denken
+wierzyć:glauben
+wiedzieć:wissen
+rozumieć:verstehen
+pamiętać:sich erinnern
+zapominać:vergessen
+brać:nehmen
+dawać:geben
+pytać:fragen
+odpowiadać:antworten
+widzisz:du siehst
+słyszysz:du hörst
+masz:du hast
+jesteś:du bist
+on jest:er ist
+ona jest:sie ist
+idziemy:wir gehen
+robimy:wir machen
+lubię:ich mag
+nie lubię:ich mag nicht
+potrzebuję:ich brauche
+pomóc:pomóc
+życie:Leben
+śmierć:Tod
+miłość:Liebe
+pokój:Frieden
+wojna:Krieg
+radość:Freude
+smutek:Traurigkeit
+strach:Angst
+odwaga:Mut
+przyjaźń:Freundschaft
+nadzieja:Hoffnung
+prawda:Wahrheit
+kłamstwo:Lüge
+szczęście:Glück
+smutek:Traurigkeit
+słońce:Sonne
+deszcz:Regen
+śnieg:Schnee
+wiatr:Wind
+zimno:kalt
+ciepło:warm
+gorąco:heiß
+zimny:kalt
+gorący:heiß
+nowy:neu
+stary:alt
+dobry:gut
+zły:schlecht
+piękny:schön
+brzydki:hässlich
+łatwy:leicht
+trudny:schwierig
+długi:lang
+krótki:kurz
+wysoki:hoch
+niski:niedrig
+gruby:dick
+chudy:dünn
+mądry:klug
+głupi:dumm
+silny:stark
+słaby:schwach
+szybki:schnell
+wolny:langsam
+bogaty:reich
+biedny:arm
+twardy:hart
+miękki:weich
+drogi:teuer
+tani:billig
+czysty:sauber
+brudny:schmutzig
+pełny:voll
+pusty:leer
+ciężki:schwer
+lekki:leicht
+krzesło:Stuhl
+stół:Tisch
+łóżko:Bett
+okno:Fenster
+drzwi:Tür
+podłoga:Boden
+sufit:Decke
+ściana:Wand
+szafa:Schrank
+półka:Regal
+lampa:Lampe
+komputer:Computer
+telefon:Telefon
+telewizor:Fernseher
+radio:Radio
+książka:Buch
+gazeta:Zeitung
+długopis:Kugelschreiber
+ołówek:Stift
+papier:Papier
+torba:Tasche
+klucz:Schlüssel
+samochód:Auto
+rower:Fahrrad
+pociąg:Zug
+samolot:Flugzeug
+statek:Schiff
+autobus:Bus
+taksówka:Taxi
+pies:Hund
+kot:Katze
+koń:Pferd
+krowa:Kuh
+świnia:Schwein
+owca:Schaf
+koza:Ziege
+kura:Huhn
+kaczka:Ente
+ryba:Fisch
+ptak:Vogel
+mysz:Maus
+królik:Hase
+niedźwiedź:Bär
+lew:Löwe
+tygrys:Tiger
+słoń:Elefant
+żyrafa:Giraffe
+małpa:Affe
+wąż:Schlange
+żółw:Schildkröte
+pieszo:zu Fuß
+biegnie:läuft
+skacze:springt
+pływa:schwimmt
+lata:fliegt
+spaceruje:spaziert
+kupuje:kauft
+sprzedaje:verkauft
+otwiera:öffnet
+zamyka:schließt
+przyjeżdża:kommt an
+odjeżdża:fährt ab
+wsiada:einstiegt
+wysiada:aussteigt
+pisze:schreibt
+czyta:liest
+rysuje:zeichnet
+maluje:mahlt
+śpiewa:singt
+tańczy:tanzt
+gra:spielt
+słucha:hört zu
+ogląda:sieht an
+mówi:spricht
+rozmawia:unterhält sich
+śmieje się:lacht
+płacze:weint
+krzyczy:schreit
+milczy:schweigt
+zgadza się:stimmt zu
+odmawia:lehnt ab
+prosi:fragt
+dziękuje:dankt
+przeprasza:entschuldigt sich
+gratulacje:Glückwünsche
+dziennik:Notizbuch
+czasopismo:Magazin
+aparat:Fotoapparat
+kuchnia:Küche
+łazienka:Badezimmer
+pokój:Zimmer
+salon:Wohnzimmer
+przedpokój:Flur
+garaż:Garage
+ogródek:Garten
+balkon:Balkon
+schody:Treppe
+piwnica:Keller
+strych:Dachboden
+sypialnia:Schlafzimmer
+jadalnia:Esszimmer
+praca:Arbeit
+firma:Firma
+biuro:Büro
+spotkanie:Treffen
+zadanie:Aufgabe
+projekt:Projekt
+klient:Kunde
+szef:Chef
+pracownik:Mitarbeiter
+zespoł:Team
+pieniądze:Geld
+konto:Konto
+bank:Bank
+faktura:Rechnung
+podatek:Steuer
+umowa:Vertrag
+sklep:Laden
+market:Supermarkt
+restauracja:Restaurant
+kawiarnia:Café
+bar:Bar
+hotel:Hotel
+szpital:Krankenhaus
+apteka:Apotheke
+stacja:Bahnhof
+lotnisko:Flughafen
+przystanek:Haltestelle
+ulica:Straße
+plac:Platz
+most:Brücke
+park:Park
+las:Wald
+rzeka:Fluss
+jezioro:See
+góra:Berg
+plaża:Strand
+wyspa:Insel
+pustynia:Wüste
+wiosna:Frühling
+lato:Sommer
+jesień:Herbst
+zima:Winter
+pogoda:Wetter
+słońce:Sonne
+deszcz:Regen
+śnieg:Schnee
+wiatr:Wind
+burza:Sturm
+chmura:Wolke
+cień:Schatten
+dźwięk:Klang
+muzyka:Musik
+obraz:Bild
+film:Film
+taniec:Tanz
+sport:Sport
+gra:Spiel
+zabawa:Spaß
+sztuka:Kunst
+literatura:Literatur
+teatr:Theater
+kino:Kino
+muzeum:Museum
+biblioteka:Bibliothek
+szkoła:Schule
+uniwersytet:Universität
+klasa:Klasse
+lekcja:Unterricht
+nauczyciel:Lehrer
+uczeń:Schüler
+student:Student
+notatki:Notizen
+książki:Bücher
+zadanie domowe:Hausaufgaben
+egzamin:Prüfung
+dyplom:Diplom
+język:Sprache
+gramatyka:Grammatik
+słownik:Wörterbuch
+tekst:Text
+litera:Buchstabe
+słowo:Wort
+zdanie:Satz
+opowiadanie:Geschichte
+wiersz:Gedicht
+powieść:Roman
+gazeta:Zeitung
+czasopismo:Magazin
+artykul:Artikel
+wiadomości:Nachrichten
+dziennik:Journal
+komentarz:Kommentar
+informacja:Information
+reklama:Werbung
+list:Brief
+kartka:Postkarte
+email:E-Mail
+telefon:Telefon
+rozmowa:Gespräch
+wiadomość:Nachricht
+człowiek:Mensch
+mężczyzna:Mann
+kobieta:Frau
+dziecko:Kind
+rodzina:Familie
+przyjaciel:Freund
+kolega:Kollege
+sąsiad:Nachbar
+znajomy:Bekannter
+lekarz:Arzt
+nauczyciel:Lehrer
+student:Student
+pracownik:Mitarbeiter
+szef:Chef
+klient:Kunde
+partner:Partner
+żona:Frau
+mąż:Mann
+dziecko:Kind
+brat:Bruder
+siostra:Schwester
+ojciec:Vater
+matka:Mutter
+dziadek:Großvater
+babcia:Großmutter
+wnuk:Enkel
+wnuczka:Enkelin
+pies:Hund
+kot:Katze
+zabawka:Spielzeug
+piłka:Ball
+gra:Spiel
+rower:Fahrrad
+zegar:Uhr
+budzik:Wecker
+pieniądze:Geld
+portfel:Portemonnaie
+karta:kreditkarte
+klucz:Schlüssel
+dokument:Ausweis
+paszport:Pass
+dowód osobisty:Personalausweis
+prawko:Führerschein
+telefon:Telefon
+komórka:Handy
+laptop:Laptop
+komputer:Computer
+tablet:Tablet
+drukarka:Drucker
+skaner:Scanner
+mysz:Maus
+klawiatura:Tastatur
+monitor:Bildschirm
+głośnik:Lautsprecher
+słuchawki:Kopfhörer
+mikrofon:Mikrofon
+aparat:Kamera
+telewizor:Fernseher
+pilot:Fernbedienung
+ładowarka:Ladegerät
+kabel:Kabel
+bateria:Akku
+lampka:Lampe
+latarka:Taschenlampe
+żarówka:Glühbirne
+gniazdko:Steckdose
+przedłużacz:Verlängerungskabel
+wtyczka:Stecker
+kran:Hahn
+umywalka:Waschbecken
+zlew:Spüle
+kuchenka:Herd
+piekarnik:Backofen
+lodówka:Kühlschrank
+zamrażarka:Tiefkühler
+mikrofalówka:Mikrowelle
+zmywarka:Spülmaschine
+pralka:Waschmaschine
+odkurzacz:Staubsauger
+żelazko:Bügeleisen
+deska do prasowania:Bügelbrett
+suszarka:Fön
+grzejnik:Heizung
+wentylator:Ventilator
+klimatyzacja:Klimaanlage
+kurz:Staub
+miotła:Besen
+szufelka:Kehrschaufel
+wiadro:Eimer
+mop:Wischmopp
+szmatka:Lappen
+gąbka:Schwamm
+proszek do prania:Waschpulver
+płyn do mycia naczyń:Spülmittel
+mydło:Seife
+szampon:Shampoo
+pasta do zębów:Zahnpasta
+szczoteczka do zębów:Zahnbürste
+grzebień:Kamm
+szczotka do włosów:Haarbürste
+maszynka do golenia:Rasierapparat
+ręcznik:Handtuch
+krem:Creme
+balsam:Lotion
+dezodorant:Deodorant
+perfumy:Parfüm
+makijaż:Make-up
+szminka:Lippenstift
+puder:Puder
+lusterko:Spiegel
+szczotka do WC:Toilettenbürste
+papier toaletowy:Toilettenpapier
+prysznic:Dusche
+wanna:Badewanne
+ręcznik kąpielowy:Badetuch
+firanka:PVC-Vorhang
+szafka:Nachtschrank
+lustro:Spiegel
+dywan:Teppich
+zasłona:Gardine
+poduszka:Kissen
+kołdra:Bettdecke
+prześcieradło:Bettlaken
+materac:Matratze
+pościel:Bettwäsche
+koc:Decke
+szafa na ubrania:Kleiderschrank
+buty:Schuhe
+kapcie:Hausschuhe
+kurtka:Jacke
+płaszcz:Mantel
+bluza:Sweatshirt
+koszula:Hemd
+bluzka:Bluse
+spodnie:Hose
+spódnica:Rock
+sukienka:Kleid
+t-shirt:T-Shirt
+sweter:Pullover
+bielizna:Unterwäsche
+skarpetki:Socken
+rajstopy:Strumpfhose
+rękawiczki:Handschuhe
+czapka:Mütze
+szalik:Schal
+kapelusz:Hut
+okulary:Brille
+okulary przeciwsłoneczne:Sonnenbrille
+kolczyki:Ohrringe
+pierścionek:Ring
+naszyjnik:Halskette
+bransoletka:Armband
+zegarek:Uhr
+torebka:Handtasche
+plecak:Rucksack
+walizka:Koffer
+portfel:Brieftasche
+chusteczka:Taschentuch
+parasol:Regenschirm
+wózek:Kinderwagen
+fotelik samochodowy:Autositz
+siodełko:Fahrradsattel
+klocki:Lego
+lalka:Puppe
+samochodzik:Spielzeugauto
+puzzle:Puzzle
+książka:Buch
+kolorowanka:Malbuch
+farby:Farben
+pędzel:Pinsel
+plastelina:Knete
+nożyczki:Schere
+klej:Kleber
+taśma:Klebeband
+długopis:Stift
+ołówek:Bleistift
+gumka:Radiergummi
+linijka:Lineal
+cyrkiel:Zirkel
+zeszyt:Heft
+kartka Papieru:Papierblatt
+klej:Klebstoff
+klej w sztyfcie:Klebestift
+nożyczki:Schere
+kubek:Tasse
+talerz:Teller
+miska:Schüssel
+szklanka:Glas
+butelka:Flasche
+słoik:Glas
+garnek:Topf
+patelnia:Pfanne
+chochla:Schöpflöffel
+widelec:Gabel
+nóż:Messer
+łyżka:Löffel
+łyżeczka:Teelöffel
+obrus:Tischtuch
+serwetka:Serviette
+deska do krojenia:Schneidebrett
+korkociąg:Korkenzieher
+solniczka:Salzstreuer
+pieprzniczka:Pfefferstreuer
+zapalniczka:Feuerzeug
+papierosy:Zigaretten
+popielniczka:Aschenbecher
+gazeta:Zeitung
+książka:Buch
+czasopismo:Zeitschrift
+notes:Notizbuch
+kartka Papieru:Papierblatt
+koperta:Briefumschlag
+znaczek pocztowy:Briefmarke
+paczka:Paket
+list:Brief
+długopis:Kugelschreiber
+pióro:Füller
+ołówek:Bleistift
+gumka do ścierania:Radiergummi
+linijka:Lineal
+cyrkiel:Zirkel
+taśma klejąca:Klebeband
+zszywacz:Tacker
+dziurkacz:Locher
+segregator:Ordner
+teczka:Mappe
+koszulka na dokumenty:Klarsichthülle
+kalka:Kohlepapier
+klej:Kleber
+piórnik:Federmäppchen
+flamastry:Filzstifte
+zakreślacz:Textmarker
+bateria:Akku
+lampa:Licht
+projektor:Projektor
+szkoła:Schule
+uczeń:Schüler
+nauczyciel:Lehrer
+klasa:Klasse
+lekcja:Unterricht
+przerwa:Pause
+dzwonek:Glocke
+zajęcia:Unterrichtsstunden
+plan lekcji:Stundenplan
+sala lekcyjna:Klassenzimmer
+tablica:Tafel
+kreda:Kreide
+gąbka:Schwamm
+biurko:Schreibtisch
+krzesło:Stuhl
+książka:Buch
+podręcznik:Lehrbuch
+zeszyt:Heft
+długopis:Stift
+ołówek:Bleistift
+gumka:Radiergummi
+linijka:Lineal
+cyrkiel:Zirkel
+nożyczki:Schere
+klej:Kleber
+pióro:Füller
+tornister:Rucksack
+plecak:Ranzen
+strój sportowy:Sportkleidung
+gimnastyka:Gymnastik
+boisko:Sportplatz
+piłka nożna:Fußball
+koszykówka:Basketball
+siatkówka:Volleyball
+biegi:Laufen
+skok w dal:Weitsprung
+skok wzwyż:Hochsprung
+trener:Trainer
+ocena:Note
+egzamin:Prüfung
+zadanie domowe:Hausaufgabe
+projekt szkolny:Schulprojekt
+klasówka:Klassenarbeit
+świadectwo:Zeugnis
+matura:Abitur
+biblioteka:Bibliothek
+czytelnia:Lesesaal
+komputer:Computer
+internet:Internet
+drukarka:Drucker
+ekran:Bildschirm
+mysz:Maus
+klawiatura:Tastatur
+mikrofon:Mikrofon
+głośniki:Lautsprecher
+słuchawki:Kopfhörer
+pendrive:USB-Stick
+program komputerowy:Software
+aplikacja:Anwendung
+zadanie:Aufgabe
+gra komputerowa:Computerspiel
+grupa:Gruppe
+przyjaciel:Freund
+kolega:Kollege
+klasa szkolna:Schulklasse
+klasowe wyjście:Schulausflug
+podróż wycieczkowa:Reiseausflug
+muzyka:Musik
+film:Film
+teatr:Theater
+kino:Kino
+biblioteka publiczna:Stadtbibliothek
+sport:Sport
+zabawa:Spaß
+wakacje:Ferien
+weekend:Wochenende
+czas wolny:Freizeit
+odpoczynek:Erholung
+relaks:Entspannung
+spotkanie:Treffen
+impreza:Party
+urodziny:Geburtstag
+prezent:Geschenk
+balon:Ballon
+tort:Cake
+świeczki:Kerzen
+zabawa:Unterhaltung
+gry planszowe:Brettspiele
+karty:Karten
+szachy:Schach
+warcaby:Dame
+puzzle:Puzzle
+książka:Buch
+komiks:Comic
+czasopismo:Magazin
+program telewizyjny:TV-Programm
+serial:Serie
+film akcji:Actionfilm
+komedia:Komödie
+dramat:Drama
+muzyka klasyczna:Klassische Musik
+piosenka:Lied
+zespół muzyczny:Band
+koncert:Konzert
+spektakl:Vorstellung
+bilety:Tickets
+scena:Bühne
+wystawa:Ausstellung
+muzeum:Museum
+galeria sztuki:Kunstgalerie
+park:Park
+las:Wald
+plaża:Strand
+góry:Berge
+basen:Schwimmbad
+kort tenisowy:Tennisplatz
+boisko do siatkówki:Volleyballplatz
+fitness:Fitness
+bieżnia:Laufband
+siłownia:Fitnessstudio
+trener osobisty:Personal Trainer
+ruch:Bewegung
+gra zespołowa:Mannschaftssport
+nurkowanie:Tauchen
+jazda na rowerze:Radfahren
+jazda na rolkach:Rollschuhlaufen
+deskorolka:Skateboard
+wspinaczka górska:Bergsteigen
+spływ kajakowy:Kajakfahren
+pływanie:Schwimmen
+żeglarstwo:Segeln
+wiosłowanie:Rudern
+taniec:Tanzen
+lekcje tańca:Tanzstunden
+taniec towarzyski:Gesellschaftstanz
+taniec nowoczesny:Modernen Tanz
+street dance:Streetdance
+hip hop:Hip-Hop
+balet:Ballett
+teatr uliczny:Straßentheater
+performans:Performance
+sztuka:Kunst
+malarstwo:Malerei
+rysunek:Zeichnung
+rzeźba:Bildhauerei
+fotografia:Fotografie
+filmowanie:Filmen
+projektowanie graficzne:Grafikdesign
+media cyfrowe:Digitale Medien
+tworzenie stron internetowych:Webdesign
+programowanie:Programmierung
+języki programowania:Programmiersprachen
+tworzenie gier:Spieleentwicklung
+konsola do gier:Spielkonsole
+kontroler gier:Controller
+tablet:Tablet
+smartfon:Smartphone
+aplikacja mobilna:Mobile App
+media społecznościowe:Soziale Medien
+sieć społecznościowa:Soziales Netzwerk
+internet bezprzewodowy:WLAN
+chmura:Cloud
+komunikator:Messenger
+rozmowa wideo:Videogespräch
+czat:Chat
+wiadomość tekstowa:SMS
+mail:Email
+rozmowa telefoniczna:Telefonanruf
+sms:Textnachricht
+czas wolny:Freizeit
+relaks:Entspannung
+spacer:Spaziergang
+piesze wędrówki:Wandern
+rowerzysta:Fahrradfahrer
+pies:Pferd
+kot:Katze
+ryba:Fisch
+śniadanie:Frühstück
+obiad:Mittagessen
+kolacja:Abendessen
+przekąska:Snack
+lody:Eis
+ciastka:Kekse
+czekolada:Schokolade
+napój:Trinken
+kawa:Kaffee
+herbata:Tee
+woda:Wasser
+koktajl:Cocktail
+pizza:Pizza
+makaron:Pasta
+zupa:Suppe
+sałatka:Salat
+owoc:Frucht
+warzywo:Gemüse
+jabłko:Apfel
+banan:Banane
+pomarańcza:Orange
+winogrona:Trauben
+marchew:Karotte
+ziemniak:Kartoffel
+pomidor:Tomate
+chleb:Brot
+bułka:Brötchen
+masło:Butter
+ser:Käse
+mięso:Fleisch
+ryba:Fisch
+kurczak:Hühnchen
+wieprzowina:Schweinefleisch
