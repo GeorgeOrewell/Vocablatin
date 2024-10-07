@@ -90,8 +90,19 @@
             for (let i = 1; i <= 28; i++) {
                 document.write(`<option value="lektion${i}.json">Lektion ${i}</option>`);
             }
+            for (let i = 1; i <= 2; i++) {
+                document.write(`<option value="Perfekt${i}.json">Perfekt ${i} (latein)</option>`);
+                document.write(`<option value="Imperfekt${i}.json">Imperfekt ${i} (latein)</option>`);
+                document.write(`<option value="Futur${i}.json">Futur ${i} (latein)</option>`);
+            }
+            for (let i = 1; i <= 3; i++) {
+                document.write(`<option value="Präsens${i}.json">Präsens ${i} (latein)</option>`);
+            }
             for (let i = 1; i <= 8; i++) {
-                document.write(`<option value="deklination${i}.json">Deklination ${i}</option>`);
+                document.write(`<option value="deklination${i}.json">Deklination ${i} (latein)</option>`);
+            }
+            for (let i = 1; i <= 11; i++) {
+                document.write(`<option value="ZeitenGemischt${i}.json">gemischte Zeiten ${i} (latein)</option>`);
             }
         </script>
     </select>

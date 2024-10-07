@@ -1,0 +1,326 @@
+monuimus:wir haben ermahnt
+potero:ich werde können
+laborat:es arbeitet
+audiveris:du wirst gehört haben
+potuerunt:sie haben gekonnt
+videmus:wir sehen
+potuit:es hat gekonnt
+agebatis:ihr handeltet
+audiverat:es hatte gehört
+aget:es wird handeln
+capietis:ihr werdet fassen
+audiveras:du hattest gehört
+vident:sie sehen
+capiebant:sie fassten
+audiverimus:wir werden gehört haben
+laboraveratis:ihr hattet gearbeitet
+videratis:ihr hattet gesehen
+amavi:ich habe geliebt
+audiebamus:wir hörten
+laborabatis:ihr arbeitetet
+potuimus:wir haben gekonnt
+monuit:es hat ermahnt
+capiam:ich werde fassen
+agit:es handelt
+ceperamus:wir hatten gefasst
+monebis:du wirst ermahnen
+capio:ich fasse
+poterit:es wird können
+monebitis:ihr werdet ermahnen
+videtis:ihr seht
+viderat:es hatte gesehen
+agebant:sie handelten
+eras:du warst
+amat:es liebt
+vidimus:wir haben gesehen
+potuerint:sie werden gekonnt haben
+potuerit:es wird gekonnt haben
+laborabitis:ihr werdet arbeiten
+potueras:du hattest gekonnt
+poteratis:ihr konntet
+amaverit:es wird geliebt haben
+fuerint:sie werden gewesen sein
+ibitis:ihr werdet gehen
+agitis:ihr handelt
+ibatis:ihr gingt
+laborabas:du arbeitetest
+amavero:ich werde geliebt haben
+amabunt:sie werden lieben
+laborabat:es arbeitete
+agebas:du handeltest
+videbit:es wird sehen
+monuerant:sie hatten ermahnt
+audiebat:es hörte
+vides:du siehst
+poteram:ich konnte
+laboraverimus:wir werden gearbeitet haben
+laborabimus:wir werden arbeiten
+monemus:wir ermahnen
+audio:ich höre
+capiebamus:wir fassten
+audimus:wir hören
+capies:du wirst fassen
+capiebam:ich fasste
+laboraverant:sie hatten gearbeitet
+audivistis:ihr habt gehört
+cepisti:du hast gefasst
+videras:du hattest gesehen
+monueritis:ihr werdet ermahnt haben
+audiet:es wird hören
+monebimus:wir werden ermahnen
+audiemus:wir werden hören
+fuit:es ist gewesen
+videbam:ich sah
+laborabunt:sie werden arbeiten
+potueritis:ihr werdet gekonnt haben
+capitis:ihr fasst
+poteritis:ihr werdet können
+fuerimus:wir werden gewesen sein
+videris:du wirst gesehen haben
+erunt:sie werden sein
+fueras:du warst gewesen
+amabitis:ihr werdet lieben
+ire:gehen
+laboraverit:es wird gearbeitet haben
+ceperimus:wir werden gefasst haben
+videbat:es sah
+poterimus:wir werden können
+auditis:ihr hört
+monet:es ermahnt
+agebam:ich handelte
+audiebant:sie hörten
+laboraveram:ich hatte gearbeitet
+potueratis:ihr hattet gekonnt
+possunt:sie können
+audis:du hörst
+potuero:ich werde gekonnt haben
+videbunt:sie werden sehen
+amaveratis:ihr hattet geliebt
+audivero:ich werde gehört haben
+fueris:du wirst gewesen sein
+ibit:es wird gehen
+monebo:ich werde ermahnen
+potuerant:sie hatten gekonnt
+ibamus:wir gingen
+it:es geht
+audies:du wirst hören
+capit:es fasst
+amabis:du wirst lieben
+imus:wir gehen
+audiverit:es wird gehört haben
+amaverint:sie werden geliebt haben
+monueris:du wirst ermahnt haben
+audiveram:ich hatte gehört
+ceperunt:sie haben gefasst
+ceperas:du hattest gefasst
+poteramus:wir konnten
+cepero:ich werde gefasst haben
+videbimus:wir werden sehen
+audiebatis:ihr hörtet
+ceperis:du wirst gefasst haben
+ceperit:es wird gefasst haben
+agere:handeln
+cepistis:ihr habt gefasst
+agimus:wir handeln
+monuistis:ihr habt ermahnt
+capient:sie werden fassen
+amabatis:ihr liebtet
+potestis:ihr könnt
+audivisti:du hast gehört
+poterat:es konnte
+amabat:es liebte
+audit:es hört
+vidistis:ihr habt gesehen
+laborant:sie arbeiten
+fuero:ich werde gewesen sein
+est:es ist
+vidisti:du hast gesehen
+amaverant:sie hatten geliebt
+is:du gehst
+laboraveras:du hattest gearbeitet
+monueras:du hattest ermahnt
+monetis:ihr ermahnt
+videritis:ihr werdet gesehen haben
+capimus:wir fassen
+vidi:ich habe gesehen
+eritis:ihr werdet sein
+amabit:es wird lieben
+sum:ich bin
+laborabant:sie arbeiteten
+vidit:es hat gesehen
+laboraveris:du wirst gearbeitet haben
+laboraverint:sie werden gearbeitet haben
+monebam:ich ermahnte
+amabamus:wir liebten
+agebat:es handelte
+monuerunt:sie haben ermahnt
+potuerimus:wir werden gekonnt haben
+poterunt:sie werden können
+monuerit:es wird ermahnt haben
+amaveris:du wirst geliebt haben
+potueram:ich hatte gekonnt
+mones:du ermahnst
+poterant:sie konnten
+amaverunt:sie haben geliebt
+eramus:wir waren
+capiebas:du fasstest
+monuerat:es hatte ermahnt
+monueramus:wir hatten ermahnt
+laborabamus:wir arbeiteten
+video:ich sehe
+estis:ihr seid
+monueratis:ihr hattet ermahnt
+monueram:ich hatte ermahnt
+videbant:sie sahen
+laborabis:du wirst arbeiten
+poteras:du konntest
+laborabit:es wird arbeiten
+itis:ihr geht
+audiverunt:sie haben gehört
+monebit:es wird ermahnen
+agebamus:wir handelten
+amavistis:ihr habt geliebt
+videbis:du wirst sehen
+agemus:wir werden handeln
+videbamus:wir sahen
+audient:sie werden hören
+poteris:du wirst können
+ceperint:sie werden gefasst haben
+laboravisti:du hast gearbeitet
+eunt:sie gehen
+videt:es sieht
+viderit:es wird gesehen haben
+amaveras:du hattest geliebt
+fuistis:ihr seid gewesen
+fueritis:ihr werdet gewesen sein
+capis:du fasst
+monebat:es ermahnte
+fuerant:sie waren gewesen
+ibo:ich werde gehen
+amabimus:wir werden lieben
+audivit:es hat gehört
+ceperat:es hatte gefasst
+capiebatis:ihr fasstet
+ibimus:wir werden gehen
+amavisti:du hast geliebt
+audiveramus:wir hatten gehört
+erimus:wir werden sein
+possumus:wir können
+ages:du wirst handeln
+amamus:wir lieben
+amaveritis:ihr werdet geliebt haben
+potest:es kann
+monuerimus:wir werden ermahnt haben
+cepimus:wir haben gefasst
+laboramus:wir arbeiten
+viderint:sie werden gesehen haben
+capiet:es wird fassen
+potuistis:ihr habt gekonnt
+potes:du kannst
+videro:ich werde gesehen haben
+audiebas:du hörtest
+amant:sie lieben
+ceperatis:ihr hattet gefasst
+eram:ich war
+amavit:es hat geliebt
+ibis:du wirst gehen
+laboraveritis:ihr werdet gearbeitet haben
+capiunt:sie fassen
+fuisti:du bist gewesen
+amatis:ihr liebt
+moneo:ich ermahne
+monebant:sie ermahnten
+laboravimus:wir haben gearbeitet
+amaverat:es hatte geliebt
+audiveritis:ihr werdet gehört haben
+laborabo:ich werde arbeiten
+fueramus:wir waren gewesen
+monuero:ich werde ermahnt haben
+ceperitis:ihr werdet gefasst haben
+potueramus:wir hatten gekonnt
+laboraverunt:sie haben gearbeitet
+fuerunt:sie sind gewesen
+potueris:du wirst gekonnt haben
+eratis:ihr wart
+audiverint:sie werden gehört haben
+videram:ich hatte gesehen
+viderunt:sie haben gesehen
+ibam:ich ging
+laboravero:ich werde gearbeitet haben
+fuerat:es war gewesen
+audietis:ihr werdet hören
+videramus:wir hatten gesehen
+amas:du liebst
+audiam:ich werde hören
+ceperam:ich hatte gefasst
+laborabam:ich arbeitete
+videbitis:ihr werdet sehen
+ago:ich handle
+laboraveramus:wir hatten gearbeitet
+laboraverat:es hatte gearbeitet
+audiverant:sie hatten gehört
+monuerint:sie werden ermahnt haben
+ero:ich werde sein
+ibat:es ging
+amabant:sie liebten
+monuisti:du hast ermahnt
+agetis:ihr werdet handeln
+amabam:ich liebte
+capiemus:wir werden fassen
+laboravit:es hat gearbeitet
+monui:ich habe ermahnt
+amabo:ich werde lieben
+ibas:du gingst
+amavimus:wir haben geliebt
+erit:es wird sein
+sunt:sie sind
+fui:ich bin gewesen
+agis:du handelst
+erant:sie waren
+amabas:du liebtest
+eo:ich gehe
+laboras:du arbeitest
+audiveratis:ihr hattet gehört
+laboravi:ich habe gearbeitet
+erat:es war
+potui:ich habe gekonnt
+amaverimus:wir werden geliebt haben
+videbatis:ihr saht
+fuimus:wir sind gewesen
+sumus:wir sind
+laboratis:ihr arbeitet
+ceperant:sie hatten gefasst
+videbo:ich werde sehen
+fueram:ich war gewesen
+audiunt:sie hören
+monent:sie ermahnen
+amaveram:ich hatte geliebt
+laboravistis:ihr habt gearbeitet
+amaveramus:wir hatten geliebt
+potuisti:du hast gekonnt
+agunt:sie handeln
+laboro:ich arbeite
+monebas:du ermahntest
+ibunt:sie werden gehen
+audivi:ich habe gehört
+cepi:ich habe gefasst
+agent:sie werden handeln
+eris:du wirst sein
+monebunt:sie werden ermahnen
+monebatis:ihr ermahntet
+agam:ich werde handeln
+fueratis:ihr wart gewesen
+potuerat:es hatte gekonnt
+fuerit:es wird gewesen sein
+amo:ich liebe
+cepit:es hat gefasst
+audivimus:wir haben gehört
+es:du bist
+ibant:sie gingen
+audiebam:ich hörte
+viderant:sie hatten gesehen
+monebamus:wir ermahnten
+viderimus:wir werden gesehen haben
+videbas:du sahst
+capiebat:es fasste
+possum:ich kann

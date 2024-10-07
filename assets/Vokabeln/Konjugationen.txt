@@ -1,0 +1,326 @@
+amo:ich liebe
+amas:du liebst
+amat:es liebt
+amamus:wir lieben
+amatis:ihr liebt
+amant:sie lieben
+amabam:ich liebte
+amabas:du liebtest
+amabat:es liebte
+amabamus:wir liebten
+amabatis:ihr liebtet
+amabant:sie liebten
+amabo:ich werde lieben
+amabis:du wirst lieben
+amabit:es wird lieben
+amabimus:wir werden lieben
+amabitis:ihr werdet lieben
+amabunt:sie werden lieben
+amavi:ich habe geliebt
+amavisti:du hast geliebt
+amavit:es hat geliebt
+amavimus:wir haben geliebt
+amavistis:ihr habt geliebt
+amaverunt:sie haben geliebt
+amaveram:ich hatte geliebt
+amaveras:du hattest geliebt
+amaverat:es hatte geliebt
+amaveramus:wir hatten geliebt
+amaveratis:ihr hattet geliebt
+amaverant:sie hatten geliebt
+amavero:ich werde geliebt haben
+amaveris:du wirst geliebt haben
+amaverit:es wird geliebt haben
+amaverimus:wir werden geliebt haben
+amaveritis:ihr werdet geliebt haben
+amaverint:sie werden geliebt haben
+laboro:ich arbeite
+laboras:du arbeitest
+laborat:es arbeitet
+laboramus:wir arbeiten
+laboratis:ihr arbeitet
+laborant:sie arbeiten
+laborabam:ich arbeitete
+laborabas:du arbeitetest
+laborabat:es arbeitete
+laborabamus:wir arbeiteten
+laborabatis:ihr arbeitetet
+laborabant:sie arbeiteten
+laborabo:ich werde arbeiten
+laborabis:du wirst arbeiten
+laborabit:es wird arbeiten
+laborabimus:wir werden arbeiten
+laborabitis:ihr werdet arbeiten
+laborabunt:sie werden arbeiten
+laboravi:ich habe gearbeitet
+laboravisti:du hast gearbeitet
+laboravit:es hat gearbeitet
+laboravimus:wir haben gearbeitet
+laboravistis:ihr habt gearbeitet
+laboraverunt:sie haben gearbeitet
+laboraveram:ich hatte gearbeitet
+laboraveras:du hattest gearbeitet
+laboraverat:es hatte gearbeitet
+laboraveramus:wir hatten gearbeitet
+laboraveratis:ihr hattet gearbeitet
+laboraverant:sie hatten gearbeitet
+laboravero:ich werde gearbeitet haben
+laboraveris:du wirst gearbeitet haben
+laboraverit:es wird gearbeitet haben
+laboraverimus:wir werden gearbeitet haben
+laboraveritis:ihr werdet gearbeitet haben
+laboraverint:sie werden gearbeitet haben
+moneo:ich ermahne
+mones:du ermahnst
+monet:es ermahnt
+monemus:wir ermahnen
+monetis:ihr ermahnt
+monent:sie ermahnen
+monebam:ich ermahnte
+monebas:du ermahntest
+monebat:es ermahnte
+monebamus:wir ermahnten
+monebatis:ihr ermahntet
+monebant:sie ermahnten
+monebo:ich werde ermahnen
+monebis:du wirst ermahnen
+monebit:es wird ermahnen
+monebimus:wir werden ermahnen
+monebitis:ihr werdet ermahnen
+monebunt:sie werden ermahnen
+monui:ich habe ermahnt
+monuisti:du hast ermahnt
+monuit:es hat ermahnt
+monuimus:wir haben ermahnt
+monuistis:ihr habt ermahnt
+monuerunt:sie haben ermahnt
+monueram:ich hatte ermahnt
+monueras:du hattest ermahnt
+monuerat:es hatte ermahnt
+monueramus:wir hatten ermahnt
+monueratis:ihr hattet ermahnt
+monuerant:sie hatten ermahnt
+monuero:ich werde ermahnt haben
+monueris:du wirst ermahnt haben
+monuerit:es wird ermahnt haben
+monuerimus:wir werden ermahnt haben
+monueritis:ihr werdet ermahnt haben
+monuerint:sie werden ermahnt haben
+video:ich sehe
+vides:du siehst
+videt:es sieht
+videmus:wir sehen
+videtis:ihr seht
+vident:sie sehen
+videbam:ich sah
+videbas:du sahst
+videbat:es sah
+videbamus:wir sahen
+videbatis:ihr saht
+videbant:sie sahen
+videbo:ich werde sehen
+videbis:du wirst sehen
+videbit:es wird sehen
+videbimus:wir werden sehen
+videbitis:ihr werdet sehen
+videbunt:sie werden sehen
+vidi:ich habe gesehen
+vidisti:du hast gesehen
+vidit:es hat gesehen
+vidimus:wir haben gesehen
+vidistis:ihr habt gesehen
+viderunt:sie haben gesehen
+videram:ich hatte gesehen
+videras:du hattest gesehen
+viderat:es hatte gesehen
+videramus:wir hatten gesehen
+videratis:ihr hattet gesehen
+viderant:sie hatten gesehen
+videro:ich werde gesehen haben
+videris:du wirst gesehen haben
+viderit:es wird gesehen haben
+viderimus:wir werden gesehen haben
+videritis:ihr werdet gesehen haben
+viderint:sie werden gesehen haben
+audio:ich höre
+audis:du hörst
+audit:es hört
+audimus:wir hören
+auditis:ihr hört
+audiunt:sie hören
+audiebam:ich hörte
+audiebas:du hörtest
+audiebat:es hörte
+audiebamus:wir hörten
+audiebatis:ihr hörtet
+audiebant:sie hörten
+audiam:ich werde hören
+audies:du wirst hören
+audiet:es wird hören
+audiemus:wir werden hören
+audietis:ihr werdet hören
+audient:sie werden hören
+audivi:ich habe gehört
+audivisti:du hast gehört
+audivit:es hat gehört
+audivimus:wir haben gehört
+audivistis:ihr habt gehört
+audiverunt:sie haben gehört
+audiveram:ich hatte gehört
+audiveras:du hattest gehört
+audiverat:es hatte gehört
+audiveramus:wir hatten gehört
+audiveratis:ihr hattet gehört
+audiverant:sie hatten gehört
+audivero:ich werde gehört haben
+audiveris:du wirst gehört haben
+audiverit:es wird gehört haben
+audiverimus:wir werden gehört haben
+audiveritis:ihr werdet gehört haben
+audiverint:sie werden gehört haben
+capio:ich fasse
+capis:du fasst
+capit:es fasst
+capimus:wir fassen
+capitis:ihr fasst
+capiunt:sie fassen
+capiebam:ich fasste
+capiebas:du fasstest
+capiebat:es fasste
+capiebamus:wir fassten
+capiebatis:ihr fasstet
+capiebant:sie fassten
+capiam:ich werde fassen
+capies:du wirst fassen
+capiet:es wird fassen
+capiemus:wir werden fassen
+capietis:ihr werdet fassen
+capient:sie werden fassen
+cepi:ich habe gefasst
+cepisti:du hast gefasst
+cepit:es hat gefasst
+cepimus:wir haben gefasst
+cepistis:ihr habt gefasst
+ceperunt:sie haben gefasst
+ceperam:ich hatte gefasst
+ceperas:du hattest gefasst
+ceperat:es hatte gefasst
+ceperamus:wir hatten gefasst
+ceperatis:ihr hattet gefasst
+ceperant:sie hatten gefasst
+cepero:ich werde gefasst haben
+ceperis:du wirst gefasst haben
+ceperit:es wird gefasst haben
+ceperimus:wir werden gefasst haben
+ceperitis:ihr werdet gefasst haben
+ceperint:sie werden gefasst haben
+sum:ich bin
+es:du bist
+est:es ist
+sumus:wir sind
+estis:ihr seid
+sunt:sie sind
+eram:ich war
+eras:du warst
+erat:es war
+eramus:wir waren
+eratis:ihr wart
+erant:sie waren
+ero:ich werde sein
+eris:du wirst sein
+erit:es wird sein
+erimus:wir werden sein
+eritis:ihr werdet sein
+erunt:sie werden sein
+fui:ich bin gewesen
+fuisti:du bist gewesen
+fuit:es ist gewesen
+fuimus:wir sind gewesen
+fuistis:ihr seid gewesen
+fuerunt:sie sind gewesen
+fueram:ich war gewesen
+fueras:du warst gewesen
+fuerat:es war gewesen
+fueramus:wir waren gewesen
+fueratis:ihr wart gewesen
+fuerant:sie waren gewesen
+fuero:ich werde gewesen sein
+fueris:du wirst gewesen sein
+fuerit:es wird gewesen sein
+fuerimus:wir werden gewesen sein
+fueritis:ihr werdet gewesen sein
+fuerint:sie werden gewesen sein
+possum:ich kann
+potes:du kannst
+potest:es kann
+possumus:wir können
+potestis:ihr könnt
+possunt:sie können
+poteram:ich konnte
+poteras:du konntest
+poterat:es konnte
+poteramus:wir konnten
+poteratis:ihr konntet
+poterant:sie konnten
+potero:ich werde können
+poteris:du wirst können
+poterit:es wird können
+poterimus:wir werden können
+poteritis:ihr werdet können
+poterunt:sie werden können
+potui:ich habe gekonnt
+potuisti:du hast gekonnt
+potuit:es hat gekonnt
+potuimus:wir haben gekonnt
+potuistis:ihr habt gekonnt
+potuerunt:sie haben gekonnt
+potueram:ich hatte gekonnt
+potueras:du hattest gekonnt
+potuerat:es hatte gekonnt
+potueramus:wir hatten gekonnt
+potueratis:ihr hattet gekonnt
+potuerant:sie hatten gekonnt
+potuero:ich werde gekonnt haben
+potueris:du wirst gekonnt haben
+potuerit:es wird gekonnt haben
+potuerimus:wir werden gekonnt haben
+potueritis:ihr werdet gekonnt haben
+potuerint:sie werden gekonnt haben
+ire:gehen
+eo:ich gehe
+is:du gehst
+it:es geht
+imus:wir gehen
+itis:ihr geht
+eunt:sie gehen
+ibam:ich ging
+ibas:du gingst
+ibat:es ging
+ibamus:wir gingen
+ibatis:ihr gingt
+ibant:sie gingen
+ibo:ich werde gehen
+ibis:du wirst gehen
+ibit:es wird gehen
+ibimus:wir werden gehen
+ibitis:ihr werdet gehen
+ibunt:sie werden gehen
+agere:handeln
+ago:ich handle
+agis:du handelst
+agit:es handelt
+agimus:wir handeln
+agitis:ihr handelt
+agunt:sie handeln
+agebam:ich handelte
+agebas:du handeltest
+agebat:es handelte
+agebamus:wir handelten
+agebatis:ihr handeltet
+agebant:sie handelten
+agam:ich werde handeln
+ages:du wirst handeln
+aget:es wird handeln
+agemus:wir werden handeln
+agetis:ihr werdet handeln
+agent:sie werden handeln
