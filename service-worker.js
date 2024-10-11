@@ -10,7 +10,7 @@ const urlsToCache = [
   '/assets/background4.mp3',
   '/manifest.json', // Manifest-Datei für PWA
   '/assets/icon-small.png',
-
+  '/service_worker.js',
   // Weitere Ressourcen wie Bilder, Fonts oder Lektionen hinzufügen
 ];
 
@@ -24,6 +24,8 @@ function addLessonsToCache(language) {
 // Lektionen für Latein und Französisch hinzufügen
 addLessonsToCache('latein');
 addLessonsToCache('franzoesisch');
+addLessonsToCache('polnisch');
+addLessonsToCache('niederlaendisch');
 
 
 // Installation des Service Workers

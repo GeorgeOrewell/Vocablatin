@@ -1,10 +1,10 @@
 let vocabList = []; // Vokabeln der aktuellen Lektion
 let currentIndex = 0;
-let score = 0;
+let score = loadScore();
 let progress = {};
 let questionStartTime; // Startzeit für die aktuelle Frage
 let lessonStartTime; // Startzeit für die Lektion
-let shuffleMode = false; // Standardmäßig nicht im Shuffle-Modus
+let shuffleMode = true; // Standardmäßig nicht im Shuffle-Modus
 let revertMode = false; // Standardmäßig nicht im Revert-Modus
 let soundEnabled = true; // Standardmäßig Soundeffekte aktiviert
 let musicEnabled = true; // Standardmäßig Hintergrundmusik aktiviert
@@ -36,6 +36,7 @@ if ('serviceWorker' in navigator) {
 // Fortschritt aus localStorage beim Laden der Seite
 window.onload = function() {
 //    saveSettings();
+    updateScoreDisplay();
     setSoundVolume(0.1);
     if (localStorage.getItem('progress')) {
         progress = JSON.parse(localStorage.getItem('progress'));
@@ -59,6 +60,7 @@ function saveSettings() {
     localStorage.setItem('settings', JSON.stringify({
         shuffleMode,
         revertMode,
+        retryIncorrect,
         soundEnabled,
         musicEnabled,
         language: languageSelect.value,
@@ -146,7 +148,7 @@ function askQuestion() {
 }
 
 // Funktion zum Überprüfen der Antwort
-function checkAnswer() {                                                                                                                         
+function checkAnswer() {
     const answerInput = document.getElementById('answer').value.trim().toLowerCase();
     const correctAnswer = revertMode
         ? vocabList[currentIndex].word.toLowerCase()
@@ -186,6 +188,7 @@ function checkAnswer() {
     }
 
     // Fortschritt speichern
+    saveScore(score);
     localStorage.setItem('progress', JSON.stringify(progress));
     updateScoreDisplay();
 
@@ -301,4 +304,20 @@ function resetProgress() {
 function setSoundVolume(volume) {
     correctSound.volume = volume;
     wrongSound.volume = volume;
+}
+
+// Speichert die Punkte im localStorage
+function saveScore(score) {
+    localStorage.setItem('score', score);
+}
+
+// Lädt die Punkte aus dem localStorage
+function loadScore() {
+    let score = localStorage.getItem('score');
+    return score ? parseInt(score) : 0;
+}
+
+// Setzt die Punkte zurück
+function resetScore() {
+    localStorage.removeItem('Score');
 }

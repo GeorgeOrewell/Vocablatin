@@ -18,6 +18,8 @@
     <div>
         <button onclick="showProgressTab('latein')">Latein</button>
         <button onclick="showProgressTab('franzoesisch')">Französisch</button>
+        <button onclick="showProgressTab('niederlaendisch')">Niederländisch</button>
+        <button onclick="showProgressTab('polnisch')">Polnisch</button>
         <!-- Weitere Sprachen hier hinzufügen -->
     </div>
     <div id="progress-content"></div>
@@ -44,7 +46,7 @@
     <div id="settings-popup" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); background-color:white; border:1px solid #ccc; padding:20px; z-index:1000; width:80%; height:80%; overflow-y:auto;">
         <h3>Einstellungen</h3>
         <label>
-            <input type="checkbox" id="shuffle-checkbox"> Shuffle Modus aktivieren
+            <input type="checkbox" id="shuffle-checkbox" checked> Shuffle Modus aktivieren
         </label><br>
         <label>
             <input type="checkbox" id="revert-checkbox"> Revert Modus aktivieren
@@ -56,7 +58,7 @@
             <input type="checkbox" id="music-checkbox" checked> Hintergrundmusik aktivieren
         </label><br>
         <label>
-            <input type="checkbox" id="retry-checkbox"> Falsche Fragen am Ende erneut abfragen
+            <input type="checkbox" id="retry-checkbox" checked> 2. Chance aktivieren?
         </label><br>
 
         <select id="music-select" onchange="changeMusic()">
@@ -74,6 +76,8 @@
         <select id="language-select">
             <option value="latein">Latein</option>
             <option value="franzoesisch">Französisch</option>
+            <option value="polnisch">Polnisch</option>
+            <option value="niederlaendisch">Niederländisch</option>
             <!-- Weitere Sprachen können hier hinzugefügt werden -->
         </select><br><br>
         <button onclick="saveSettings()">Speichern</button>
@@ -88,11 +92,25 @@
             for (let i = 1; i <= 28; i++) {
                 document.write(`<option value="lektion${i}.json">Lektion ${i}</option>`);
             }
+            for (let i = 1; i <= 2; i++) {
+                document.write(`<option value="Perfekt${i}.json">Perfekt ${i} (latein)</option>`);
+                document.write(`<option value="Imperfekt${i}.json">Imperfekt ${i} (latein)</option>`);
+                document.write(`<option value="Futur${i}.json">Futur ${i} (latein)</option>`);
+            }
+            for (let i = 1; i <= 3; i++) {
+                document.write(`<option value="Präsens${i}.json">Präsens ${i} (latein)</option>`);
+            }
+            for (let i = 1; i <= 8; i++) {
+                document.write(`<option value="deklination${i}.json">Deklination ${i} (latein)</option>`);
+            }
+            for (let i = 1; i <= 11; i++) {
+                document.write(`<option value="ZeitenGemischt${i}.json">gemischte Zeiten ${i} (latein)</option>`);
+            }
         </script>
     </select>
 
     <script>
-    // Hinzufügen des Event Listeners für die Enter-Taste
+    // Event Listener für die Enter-Taste
     document.getElementById("answer").addEventListener("keydown", function(event) {
         if (event.key === "Enter") {
             event.preventDefault(); // Verhindert das Standardverhalten (z.B. das Absenden des Formulars)
